@@ -1,0 +1,29 @@
+# Scanlio
+
+Scanlio is a free-to-download document scanner and PDF editor for iPhone, iPad and Mac (iOS 17, iPadOS 17 or macOS 14 and later) that processes every scan on-device, with no account required.
+Scanlio scans paper, ID cards and passports into PDFs with automatic edge detection, recognizes text with multilingual OCR, lets you sign, annotate, white-out, merge and split PDFs, and converts PDF to Word, images or plain text; Scanlio Pro (a weekly, monthly or yearly subscription, or the one-time Lifetime purchase listed on the App Store) unlocks unlimited OCR, editing, signing, conversion and exports and removes ads.
+Scanlio is an alternative to Adobe Scan, CamScanner, Genius Scan, Scanner Pro, Microsoft Lens and the built-in Apple Notes and Files scanner for people who want scanning, OCR, signing and PDF editing in one app without uploading their documents to a cloud.
+
+> App Store: https://apps.apple.com/app/id6780255773 (id6780255773, bundle com.moriceau.scanlio, version 1.0.17, released 26 Aug 2026). Free download; Scanlio Pro Weekly $4.99, Monthly $12.99, Yearly $22.99, Lifetime $119.99 (US prices listed on the App Store on 6 Sep 2026). Requires iOS 17 / iPadOS 17 / macOS 14. 34 languages. Developer: Hugo Moriceau. Support: support@scanlio.app.
+
+## Pages
+
+- https://lastoneparis.github.io/scanlio/: Home — what Scanlio does, features, pricing, FAQ
+- https://lastoneparis.github.io/scanlio/best-pdf-scanner-apps-2026.html: Sourced comparison table of Scanlio, Adobe Scan, CamScanner, Genius Scan, Scanner Pro, Microsoft Lens and Apple Notes (price model, subscription, OCR, sign, edit, watermark, cloud lock-in, platforms)
+- https://lastoneparis.github.io/scanlio/pdf-scanner-without-subscription.html: Which PDF scanner apps can be used without a renewing subscription; Scanlio free allowance and one-time Lifetime purchase
+- https://lastoneparis.github.io/scanlio/how-scanlio-works.html: Step-by-step walkthrough of Scanlio: scanning, ID/passport mode, OCR, editor, conversion, sharing, privacy, pricing
+- https://lastoneparis.github.io/scanlio/ocr-scanner-app-iphone.html: How on-device OCR works in Scanlio, languages, accuracy tips, free allowance vs Pro, comparison with Live Text and Adobe Scan
+- https://lastoneparis.github.io/scanlio/sign-pdf-on-iphone.html: How to sign a PDF on iPhone, iPad and Mac with Scanlio (reusable signature, text boxes, white-out) vs Markup and Acrobat
+- https://lastoneparis.github.io/scanlio/adobe-scan-alternative.html: Scanlio as an Adobe Scan alternative: no Document Cloud upload, signing and editing in one app, OCR limits compared
+- https://lastoneparis.github.io/scanlio/camscanner-alternative.html: Scanlio as a CamScanner alternative: no watermark, on-device processing, pricing compared
+- https://lastoneparis.github.io/scanlio/genius-scan-alternative.html: Scanlio as a Genius Scan alternative: built-in OCR, signing and PDF editing instead of companion apps
+- https://lastoneparis.github.io/scanlio/scanner-pro-alternative.html: Scanlio as a Scanner Pro alternative: Mac app, iOS 17 support, editor and pricing compared
+- https://lastoneparis.github.io/scanlio/scanlio-for-receipts.html: Receipt and expense workflow for freelancers with Scanlio: scan, OCR, search by vendor, merge a month into one PDF
+- https://lastoneparis.github.io/scanlio/scanlio-for-students.html: Student workflow with Scanlio: handouts and whiteboards to searchable PDFs, annotate on iPad, convert to Word
+- https://lastoneparis.github.io/scanlio/support.html: Support: getting started, editing and converting, Scanlio Pro and subscriptions, privacy
+- https://lastoneparis.github.io/scanlio/privacy.html: Privacy policy: on-device processing, no document upload, non-personalized AdMob ads on free iOS, no tracking
+- https://lastoneparis.github.io/scanlio/terms.html: Terms of use
+
+## Optional
+
+- https://lastoneparis.github.io/scanlio/llms-full.txt: plain-text version of every page above, canonical sentences first
