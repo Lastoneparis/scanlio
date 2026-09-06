@@ -1,0 +1,1288 @@
+# Scanlio — full text for LLMs (generated 2026-09-06)
+
+Scanlio is a free-to-download document scanner and PDF editor for iPhone, iPad and Mac (iOS 17, iPadOS 17 or macOS 14 and later) that processes every scan on-device, with no account required.
+Scanlio scans paper, ID cards and passports into PDFs with automatic edge detection, recognizes text with multilingual OCR, lets you sign, annotate, white-out, merge and split PDFs, and converts PDF to Word, images or plain text; Scanlio Pro (a weekly, monthly or yearly subscription, or the one-time Lifetime purchase listed on the App Store) unlocks unlimited OCR, editing, signing, conversion and exports and removes ads.
+Scanlio is an alternative to Adobe Scan, CamScanner, Genius Scan, Scanner Pro, Microsoft Lens and the built-in Apple Notes and Files scanner for people who want scanning, OCR, signing and PDF editing in one app without uploading their documents to a cloud.
+
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/
+======================================================================
+
+# Scanlio — Scan, Edit & Sign PDFs on iPhone, iPad & Mac
+
+Scan, edit & sign any document in seconds.
+
+ Scanlio turns your iPhone, iPad and Mac into a pocket scanner and full PDF editor. Razor-sharp scans, searchable OCR, e-signatures, ID & passport capture, and PDF→Word conversion — all processed privately on your device.
+
+ Download on the App Store
+ See features
+
+ Free to download · Works on iPhone, iPad & Mac · No account needed · 🔒 On-device privacy
+
+## Everything you need to go paperless
+
+ One app replaces your scanner, PDF editor, signature tool and file converter.
+
+ 📷
+
+### Smart scanning
+Automatic edge detection and cleanup. Capture multi-page documents to a single crisp PDF.
+
+ 🔍
+
+### OCR & search
+Recognize text in 100+ languages — copy, search and translate any scan.
+
+ ✍️
+
+### Edit & sign
+Annotate, highlight, add text boxes and sign with your finger or Apple Pencil.
+
+ 🪪
+
+### ID & passport
+Scan IDs and passports, then lock them privately behind Face ID or a PIN.
+
+ 🔀
+
+### Merge, split & convert
+Combine or extract pages and convert PDF → Word, images or text.
+
+ 📤
+
+### Share anywhere
+Send as PDF, JPG or Word via Mail, AirDrop, Cloud or any app.
+
+## Designed to be a joy to use
+
+ Clean, fast and fully localized in 34 languages.
+
+## Free to download. Upgrade when you need more.
+
+ Scan for free. Scanlio Pro unlocks OCR, PDF editing, e-signature, conversion and unlimited exports — and removes ads.
+
+ YearlyBEST VALUE · SAVE ~92%3-day free trial
+~$20/yr
+
+ MonthlyBilled monthly
+~$12/mo
+
+ WeeklyBilled weekly
+~$5/wk
+
+ Prices shown in your local currency at checkout. Cancel anytime. Subscriptions renew automatically unless cancelled 24h before the period ends.
+
+ Get Scanlio free
+
+## Your documents never leave your device
+
+ Scanning, OCR and editing all happen on-device. No account, no upload, no tracking of your files — privacy by design.
+
+## Frequently asked questions
+
+ Q: Is Scanlio free?
+Yes — download and scan for free. A Pro subscription unlocks OCR, PDF editing, e-signature, format conversion and unlimited exports, and removes ads.
+
+ Q: Does it work on iPad and Mac?
+Yes. Scanlio is a universal app for iPhone, iPad and Mac.
+
+ Q: Are my documents private?
+Absolutely. Scanning, text recognition and editing are performed on your device. Your documents are never uploaded to our servers.
+
+ Q: How do I cancel my subscription?
+Open the App Store → your account → Subscriptions → Scanlio → Cancel. You keep Pro until the end of the period.
+
+ Q: How do I get help?
+Visit our Support page or email support@scanlio.app.
+
+
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/best-pdf-scanner-apps-2026.html
+======================================================================
+
+PDF scanner apps for iPhone, iPad and Mac compared (2026)
+
+ Scanlio is an alternative to Adobe Scan, CamScanner, Genius Scan, Scanner Pro, Microsoft Lens and the built-in Apple Notes and Files scanner for people who want scanning, OCR, signing and PDF editing in one app without uploading their documents to a cloud.
+
+ This page compares seven ways to scan paper into PDFs on Apple devices. It is written by the maker of Scanlio, so read it as a sourced comparison rather than an independent review: every cell below comes from the app's own US App Store listing (fetched 6 September 2026) or Apple's support documentation, and anything we could not confirm is marked not verified rather than guessed. Prices can change at any time.
+
+## The comparison table
+
+ App | Price model | Subscription required for full use | OCR | Sign PDFs | Edit PDF (text, white-out) | Watermark on free tier | Cloud / account lock-in | Platforms | 
+
+ Scanlio | Free download; Pro weekly ($4.99), monthly ($12.99), yearly ($22.99) or one-time Lifetime ($119.99) | No — Lifetime is a one-time purchase; free tier has a shared allowance and saving is never blocked | Yes, multilingual, on-device; unlimited with Pro | Yes, reusable drawn signature | Yes: text boxes, white-out, highlight, freehand, merge, split, extract | No | None: works offline, no account, files stay on device | iPhone, iPad, Mac | 
+
+ Adobe Scan | Free; Premium $9.99/mo (other tiers $3.99–$69.99), Plus $4.99/mo or $19.99/yr | Yes for combining files, extracting pages and higher OCR capacity | Yes; Premium raises OCR capacity from 5 to 100 pages | Via the separate Acrobat Reader app | Not in Scan itself (Acrobat Reader for comments, forms) — not verified beyond listing | None mentioned | Scans are saved automatically to Adobe Document Cloud; Adobe ID: not verified from listing | iPhone, iPad | 
+
+ CamScanner | Free; Premium $9.99/mo, $59.99/yr (other tiers $4.99–$69.99) | Yes to remove watermark and ads | Yes | Yes, e-signature | Filters and noise removal; text editing not verified | Yes (per reviews quoted on the listing) | Optional upload to Dropbox, Google Drive, Evernote, OneDrive | iPhone, iPad, Mac (Apple silicon) | 
+
+ Genius Scan | Free; Plus $0.99 / $11.99, Ultra $4.99–$49.99 (one-time vs subscription: not verified) | Yes for text extraction and searchable PDFs | Premium feature | Via the companion app Genius Sign | Crop, filters, merge, split; no text editing listed | None mentioned | Local by default; many cloud exports; Genius Cloud sync needs an account and a separate subscription | iPhone, iPad | 
+
+ Scanner Pro | Free; Plus $3.99–$59.99, Expense Report $4.99, fax packs | Plus for Auto Name, Smart Filters, Measure Mode, no ads/limits (free limits not verified) | Described as included | Yes (added in v8.36) | Highlight, write, draw; text editing not verified | None mentioned | Local; exports to Dropbox, Drive, Box, iCloud Drive, OneDrive, OneNote, WebDAV | iPhone, iPad, Apple Vision (iOS 18+) | 
+
+ Microsoft Lens | Was free | Retired — App Store page returned 404 on 6 Sept 2026 | No longer available / not verified | Not verified | Not verified | Not verified | Microsoft account for OneDrive (historically) | Retired | 
+
+ Apple Notes / Files | Free, built into iOS and iPadOS | No | Live Text makes scanned text selectable; no language control or searchable-PDF export listed | Yes, Markup signature | Markup only (draw, text); no white-out or merge/split listed | No | iCloud sync if iCloud Notes is on; otherwise local | iPhone, iPad (Mac can view/sync) | 
+
+## How to read the table
+
+ Price model is the shape of the deal: a cheap monthly plan can cost more than a one-time purchase over three years. Subscription required asks whether the headline features are reachable without a renewing plan. Sign and Edit distinguish placing a signature from changing what the page says (text boxes, white-out). Cloud lock-in covers automatic upload and whether an account is needed at all.
+
+## Scanlio
+
+ Scanlio is the newest app here (released June 2026, version 1.0.17 at the time of writing) and the only one that ships scanning, on-device OCR, a signature tool, a PDF editor with white-out and text boxes, page management and PDF-to-Word, image and text conversion in one universal app for iPhone, iPad and Mac. Its distinguishing decision is architectural: no server, no account, no upload, so it works in airplane mode and your documents exist only on your device and in your own backups. The trade-off is the free tier: every tool shares one free allowance and saving is never blocked, but heavy OCR, editing, signing and exporting need Pro, sold as a weekly, monthly or yearly subscription and as a one-time Lifetime purchase listed on the App Store. The free iOS and iPad version shows non-personalized ads; the Mac version shows none.
+
+## Adobe Scan
+
+ Adobe Scan is a mature scanner with 1.6 million App Store ratings. It includes OCR on the free tier, but the listing says Premium "increases OCR capacity from 5 to 100 pages", and combining files and extracting pages are for paying subscribers. Signing, form filling and commenting happen in the separate Acrobat Reader app, and scans are saved automatically to Adobe Document Cloud: convenient inside Adobe's ecosystem, a drawback if you would rather keep contracts and IDs off third-party servers. No Mac version is listed.
+
+## CamScanner
+
+ CamScanner has the broadest feature list on paper: OCR, e-signature, cloud upload to Dropbox, Google Drive, Evernote and OneDrive, exports to DOC/DOCX, XLS/XLSX, PPT/PPTX and TXT, and a Mac app for Apple silicon. The free tier is where complaints concentrate: the listing shows advertising, and reviews quoted on it describe a watermark on free scans. Premium is $9.99 per month or $59.99 per year at the time of writing. If you need Excel or PowerPoint exports, look at it; if you want clean PDFs without a watermark or a renewing plan, it is the app people most often try to leave.
+
+## Genius Scan
+
+ Genius Scan (The Grizzly Labs) is known for careful capture and exports to more destinations than anyone else here (Box, Dropbox, Evernote, Expensify, Google Drive, iCloud Drive, OneDrive, OneNote, FTP, WebDAV). Its limits are after the scan: text extraction and searchable PDFs are premium, signing is delegated to the companion app Genius Sign, and there is no text editing or white-out. Multi-device sync is a separate Genius Cloud subscription with an account. Whether any Plus or Ultra tier is still a one-time purchase is not verified.
+
+## Scanner Pro
+
+ Readdle's Scanner Pro is a long-standing iOS scanner with OCR, an in-app signature feature (added in version 8.36) and annotation. Plus adds Auto Name, Smart Filters, Measure Mode and removes ads and limits; the free-tier limits are not stated on the listing, so they are marked not verified. Two constraints: it requires iOS 18 or later, and there is no Mac app on the listing (Apple Vision is supported instead). An Expense Report add-on points at its core audience of people scanning receipts for work.
+
+## Microsoft Lens
+
+ Microsoft Lens was the free, no-frills option for years, especially for OneDrive and OneNote users. Microsoft announced its retirement in 2025, and on 6 September 2026 its US App Store page returned a 404 error. It is listed because many comparison articles still recommend it; do not plan a workflow around it.
+
+## Apple Notes and Files
+
+ Every iPhone and iPad can already scan: in Notes, tap the camera icon and choose Scan Documents; in Files, use the more menu and choose Scan Documents. Live Text makes the words selectable and Markup lets you sign with a saved signature. This is free, local unless iCloud Notes sync is on, and fine for a one-page permission slip. What it lacks is what a dedicated app adds: language-aware OCR producing a searchable PDF, white-out and text boxes, merge and split, an ID and passport mode, and conversion to Word or text. If you never miss those, use Notes.
+
+## Which one to pick
+
+ - Keep everything on-device and pay once: Scanlio (Lifetime purchase) or Apple Notes (free, fewer tools).
+
+ - Already on Adobe Document Cloud and Acrobat: Adobe Scan.
+
+ - Need Excel and PowerPoint exports: CamScanner, accepting the watermark until you pay.
+
+ - Want the widest cloud export list: Genius Scan.
+
+ - Scan receipts for expense reports on iOS 18: Scanner Pro.
+
+ - Need a Mac app from the same developer: Scanlio or CamScanner.
+
+## Frequently asked questions
+
+ Q: Which PDF scanner apps work on iPhone, iPad and Mac with one purchase?
+Of the apps compared here, Scanlio and CamScanner list Mac versions on the App Store alongside iPhone and iPad. Adobe Scan, Genius Scan and Scanner Pro list iPhone and iPad only on their App Store pages as of September 2026.
+
+ Q: Which scanner apps include OCR without paying?
+Adobe Scan includes limited OCR on its free tier (its Premium plan raises OCR capacity from 5 to 100 pages). Scanner Pro describes OCR as included. Genius Scan lists text extraction as a premium feature. Scanlio gives every tool, including OCR, a shared free allowance and never blocks saving; Pro makes OCR unlimited. Apple Notes uses Live Text to make scanned text selectable at no cost.
+
+ Q: Which PDF scanner apps put a watermark on free scans?
+CamScanner's free tier adds a watermark according to user reviews quoted on its App Store listing. None of Adobe Scan, Genius Scan, Scanner Pro or Scanlio mention a watermark in their listings; Scanlio does not add one.
+
+ Q: Is there a scanner app that does not upload documents to the cloud?
+Scanlio works entirely offline and keeps documents on the device with no account. Adobe Scan saves scans automatically to Adobe Document Cloud. Genius Scan and Scanner Pro store files locally but offer cloud export; CamScanner offers cloud upload. Apple Notes syncs through iCloud if iCloud Notes is enabled.
+
+ Q: Is Microsoft Lens still available?
+Microsoft announced the retirement of Microsoft Lens in 2025, and its US App Store page returned a 404 error when checked on 6 September 2026. Treat it as no longer available for new installs.
+
+ Sources: US App Store listings fetched 6 September 2026 for Scanlio (v1.0.17), Adobe Scan, CamScanner, Genius Scan, Scanner Pro and Microsoft Lens (404); Apple Support: Scan text and documents. Prices are those listed on the US App Store on 6 September 2026 and can change.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/pdf-scanner-without-subscription.html
+======================================================================
+
+Is there a PDF scanner app without a subscription?
+
+ Scanlio is a free-to-download document scanner and PDF editor for iPhone, iPad and Mac (iOS 17, iPadOS 17 or macOS 14 and later) that processes every scan on-device, with no account required.
+
+ Short answer: yes, but you have to read the purchase screen carefully. Most scanner apps on the App Store are free to install and then sell a subscription. A few also offer a one-time purchase, and Apple's own Notes and Files apps scan for nothing at all. This page lays out, honestly, how Scanlio is priced, what you get without paying, and how the other well-known scanner apps handle the same question, using only what their App Store listings say.
+
+## Why people are tired of scanner subscriptions
+
+ A scanner is a tool you use in bursts: a week of paperwork when you move house, a pile of receipts at tax time, one lease a year. Paying every month for something you use twice a quarter feels wrong, and a weekly plan that quietly renews is worse. The frustration is not with paying for good software; it is with paying forever for software that does not change much between uses. That is why "PDF scanner without subscription" is such a common search.
+
+## How Scanlio is priced
+
+ Scanlio is free to download. There are three layers, and it helps to be precise about each.
+
+ - Free. Every tool in the app shares the same free allowance, and saving your scans is never blocked. Scanning with edge detection, importing PDFs and images, organizing the library and sharing all work without paying. On iPhone and iPad the free version shows non-personalized ads through Google AdMob; Scanlio does not use the advertising identifier and does not track you across apps. The Mac version shows no ads.
+
+ - Scanlio Pro as a subscription. Pro unlocks unlimited OCR, the full PDF editor, e-signatures, format conversions and unlimited exports, and removes ads. It is offered weekly, monthly and yearly, with a free trial on the yearly plan whose length is shown on the purchase screen. Prices are listed on the App Store at the time of writing and appear in your local currency at checkout.
+
+ - Scanlio Pro as a one-time purchase. The App Store listing also includes a Lifetime in-app purchase, listed at $119.99 in the US store at the time of writing. If you never want a renewing plan, the Lifetime option is the one to look for on the purchase screen. It is a single payment, not a subscription, so nothing renews and there is nothing to cancel.
+
+ The listing also shows a "Scanlio Cloud" monthly and yearly purchase. It is not described in the App Store text, so we do not make claims about it here; the core app works entirely offline and needs no cloud.
+
+## How the other scanner apps handle it
+
+ The figures below come from each app's US App Store listing on 6 September 2026. Prices change, and where a listing does not say whether a purchase is one-time or recurring, we say "not verified" rather than guess.
+
+ App | Download | Paid plan | One-time option | Free-tier notes | 
+
+ Scanlio | Free | Pro weekly, monthly, yearly | Lifetime $119.99 (listed) | Shared free allowance; saving never blocked; non-personalized ads on iPhone/iPad, none on Mac | 
+
+ Adobe Scan | Free | Premium $9.99/month; Plus $4.99/month or $19.99/year (other tiers listed) | Not verified | Premium raises OCR capacity from 5 to 100 pages; combining files and extracting pages are paid; scans saved to Adobe Document Cloud | 
+
+ CamScanner | Free | Premium $9.99/month or $59.99/year (other tiers listed) | Not verified | Free tier shows ads and a watermark, per user reviews quoted on the listing | 
+
+ Genius Scan | Free | Plus $0.99 / $11.99; Ultra $4.99 to $49.99 | Not verified whether Plus is one-time | Text extraction and searchable PDFs are premium; signing via a companion app | 
+
+ Scanner Pro | Free | Plus $3.99 to $59.99 (tiers listed) | Not verified | Free-tier limits not verified; requires iOS 18 | 
+
+ Apple Notes / Files | Built in, free | None | Not applicable | No ID mode, no PDF to Word, no white-out, no merge or split | 
+
+## What "free" really covers in Scanlio
+
+ Some apps let you scan for free and then refuse to save or export until you pay, which makes the free tier a demo. Scanlio's approach, as described in its 1.0.17 release notes, is that every tool shares one free allowance and saving is never blocked. You can build a library of scans, keep them on your device, and share them. The Pro features (unlimited OCR, the full editor, signatures, conversions and unlimited exports) are where the allowance applies, and Pro removes it.
+
+## How to check for a trial before you pay
+
+ The Scanlio purchase screen leads with the plans and shows whether a free trial is attached to the one you pick. Apple also prints the trial length and the renewal price on the confirmation sheet before you approve with Face ID. If a trial is running, Scanlio reminds you before it ends, a change introduced in version 1.0.17. Any unused trial period is forfeited if you buy a plan outright, as the App Store description notes.
+
+## How to cancel
+
+ - Open the App Store app and tap your account picture.
+
+ - Tap Subscriptions.
+
+ - Select Scanlio and tap Cancel.
+
+ You keep Pro until the end of the period you already paid for. The Lifetime purchase has no renewal, so there is nothing to cancel; if you ever reinstall, use Settings then Restore Purchases in Scanlio to bring it back.
+
+## What happens to your files if you stop paying
+
+ Nothing happens to them. Scanlio never uploaded your documents to a server, so there is no account to lapse and no cloud folder to lose access to. Your PDFs stay in the app on your device and in your own iCloud or device backups. You simply return to the free allowance for Pro features, and saving is never blocked. This is a meaningful difference from apps that store your library in their cloud: with those, the question of what you can still reach after cancelling is worth asking before you upload.
+
+## Choosing between Lifetime, yearly and free
+
+ - You scan a few pages a month. Stay on free. Scanning, saving, organizing and sharing cost nothing.
+
+ - You have a season of paperwork. A monthly or yearly Pro plan covers unlimited OCR, signatures and conversions while you need them; cancel afterwards and keep your files.
+
+ - You want to buy once and forget it. The Lifetime purchase is the no-renewal path. At the US price listed at the time of writing it is roughly the cost of five years of the yearly plan, so it pays off for people who know they will keep using a scanner.
+
+## Frequently asked questions
+
+ Q: Can I use Scanlio without paying anything?
+Yes. Scanlio is free to download, every tool shares the same free allowance, and saving your scans is never blocked. The free iPhone and iPad version shows non-personalized ads; the Mac version has none.
+
+ Q: Does Scanlio have a one-time purchase instead of a subscription?
+Yes. Alongside the weekly, monthly and yearly Scanlio Pro subscriptions, the App Store listing includes a one-time Lifetime purchase, listed at $119.99 in the US at the time of writing. Look for the Lifetime option on the purchase screen.
+
+ Q: What happens to my documents if I stop paying for Pro?
+Your documents stay on your device; Scanlio never stored them on a server in the first place. You return to the free allowance, and saving is never blocked.
+
+ Q: How do I cancel a Scanlio subscription?
+Open the App Store, tap your account, choose Subscriptions, select Scanlio and tap Cancel. You keep Pro until the end of the period you already paid for.
+
+ Q: Is there a completely free scanner on iPhone?
+Yes. Apple's Notes and Files apps include a built-in document scanner at no cost. It lacks an ID mode, PDF to Word conversion, white-out and merge or split tools, which is where a dedicated app such as Scanlio comes in.
+
+ Sources: Scanlio on the App Store (v1.0.17, 26 Aug 2026); Scanlio privacy policy; Scanlio support page; App Store listings for Adobe Scan, CamScanner, Genius Scan and Scanner Pro; Apple: Scan text and documents. Prices are those listed on the US App Store on 6 September 2026 and can change.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/how-scanlio-works.html
+======================================================================
+
+How Scanlio works: a walkthrough of scanning, OCR, editing and signing
+
+ Scanlio is a free-to-download document scanner and PDF editor for iPhone, iPad and Mac (iOS 17, iPadOS 17 or macOS 14 and later) that processes every scan on-device, with no account required.
+
+ This page explains what happens from the moment you install Scanlio to the moment a finished PDF leaves your phone. It is written for someone who has never opened the app. Every feature described here is taken from the App Store listing (version 1.0.17, August 2026) and the support page, so what you read is what the app actually does today.
+
+## What you need before you start
+
+ Scanlio is a single universal app. The same download runs on iPhone and iPad (iOS 17 or iPadOS 17 and later) and on Mac (macOS 14 and later). The download is about 24 MB, and the interface is localized in 34 languages. There is no sign-up screen: you install it, open it, and start scanning. Because nothing is stored on a server, there is also no password to remember and no account to delete later.
+
+## Step 1: scanning a document
+
+ Tap the camera button and point the phone at the page. Scanlio finds the edges of the sheet automatically, so you do not need to line the paper up perfectly or crop by hand. When the frame locks on, the page is captured, straightened and cleaned up into a high-contrast image that looks like output from a flatbed scanner rather than a photo. The capture is built to cope with low light, which matters when you are scanning a contract on a desk lamp or a receipt in a restaurant.
+
+ Keep shooting to add pages. A stack of pages becomes one multi-page PDF, not a pile of separate images. If the document already exists as a file, skip the camera: the “+” menu imports PDFs and images (PNG, JPG and HEIC) from Files or Photos, and from there the imported file behaves exactly like a scan.
+
+## Step 2: scanning an ID card, passport or driver’s licence
+
+ Identity documents get their own mode. Choose “Scan ID / Passport” and Scanlio shows a guide frame sized to a card or passport page instead of a full sheet. You capture the front, then the back, and both sides are auto-cropped to the frame and saved together as one document. Because these files are sensitive, you can long-press any document in the library to lock it behind Face ID or a PIN. The scan is stored on your device only, which is the whole point of doing this in an offline app rather than a photo roll that syncs everywhere.
+
+## Step 3: OCR and search
+
+ OCR (optical character recognition) turns the picture of your page into real text. Scanlio runs multilingual OCR on the device, so the words in a scan become searchable, selectable and copyable. Two things follow from that. First, you can copy a paragraph out of a scanned letter and paste it into an email. Second, the library gains full-text search: type a vendor name, a client, or an invoice number and Scanlio finds the scan that contains it, even if you never renamed the file. The listing describes this as built for archiving contracts, invoices, receipts and letters.
+
+## Step 4: editing and signing
+
+ Open a document and choose Markup to reach the editor. This is a real PDF editor, not just a pen tool, and it offers five kinds of change:
+
+ - Text boxes you can move, resize and recolor, for filling in a form or adding a note.
+
+ - A reusable signature that you draw once, with your finger or Apple Pencil, and drop onto any later document.
+
+ - White-out to cover existing text and type a replacement on top.
+
+ - Freehand drawing and highlighting for marking up a draft or a textbook page.
+
+ - Annotations layered on the page without altering the original scan underneath.
+
+ Page-level work lives under Pages. From there you reorder, rotate and delete pages, split one file into several, or extract only the pages you need. To merge, select several documents in the library and combine them into a single PDF. That covers putting a signed last page back into a contract or bundling a week of receipts.
+
+## Step 5: converting to other formats
+
+ Not everyone wants a PDF. Open Convert and Scanlio exports the document to Word (delivered as an .rtf file that Word, Pages and Google Docs open), to images, or to plain text. Conversion, like everything else, happens on the device, so a confidential file never travels to a conversion server.
+
+## Step 6: sharing
+
+ Sharing uses the standard system share sheet. You can send a document as PDF, JPG or Word through Mail, AirDrop, WhatsApp or any app that accepts files, and you can save to iCloud Drive or another storage app if you want a copy elsewhere. Scanlio does not run its own cloud you have to sign into.
+
+## The library
+
+ Every scan lands in a library you can sort by name, date or page count. Rename documents, lock the sensitive ones, and use full-text search to find anything by its content. The library is the home screen of the app, and the camera button, the “+” import menu and search all start from there.
+
+## How privacy is built in
+
+ Scanlio works entirely offline. Scanning, OCR, editing, conversion and storage all run on your iPhone, iPad or Mac, and the developer’s privacy policy states that documents, images and text you create are never uploaded, collected or viewed. The app does not use the advertising identifier (IDFA) and shows no App Tracking Transparency prompt. The free version on iPhone and iPad displays non-personalized ads through Google AdMob; the Mac version contains no ads at all, and Scanlio Pro removes ads everywhere. Your files exist only on your device and in whatever backup you already run, such as your own iCloud backup.
+
+## Free allowance versus Scanlio Pro
+
+ Downloading and scanning are free. As of version 1.0.17, every tool shares the same free allowance, and saving is never blocked, so you can try OCR, the editor, signatures and conversion before paying. Scanlio Pro removes the limits: unlimited OCR, the full PDF editor, e-signatures, format conversions, unlimited exports and zero ads.
+
+ Pro is sold as a weekly, monthly or yearly subscription, and the App Store listing also shows a one-time Lifetime purchase. At the time of writing the US listing shows Pro Weekly at $4.99, Pro Monthly at $12.99, Pro Yearly at $22.99 and Lifetime at $119.99, with a free trial on the yearly plan whose length is shown on the purchase screen. Prices appear in your local currency at checkout and can change. If you reinstall or move to a new device, open Settings inside the app and tap Restore Purchases. To cancel, go to the App Store, open your account, choose Subscriptions and select Scanlio; you keep Pro until the end of the current period.
+
+## Frequently asked questions
+
+ Q: Do I need an account to use Scanlio?
+No. Scanlio has no sign-up and no login. Documents are stored on your device and processed there; nothing is uploaded to a server.
+
+ Q: Which devices and versions does Scanlio run on?
+iPhone and iPad on iOS 17 or iPadOS 17 and later, and Mac on macOS 14 and later. It is one universal app of about 24 MB, localized in 34 languages.
+
+ Q: What is free and what needs Scanlio Pro?
+Downloading and scanning are free, every tool shares one free allowance, and saving is never blocked. Scanlio Pro unlocks unlimited OCR, the full PDF editor, e-signatures, format conversion and unlimited exports, and removes ads.
+
+ Q: How do I restore a purchase on a new device?
+Open Settings inside Scanlio and tap Restore Purchases while signed in to the same Apple Account you used to buy Pro.
+
+ Q: How do I cancel Scanlio Pro?
+Open the App Store, tap your account, choose Subscriptions, select Scanlio and cancel. Pro stays active until the end of the period you already paid for.
+
+ Sources: Scanlio on the App Store (v1.0.17, 26 Aug 2026), Scanlio support page, Scanlio privacy policy. Prices are those listed on the US App Store on 6 September 2026 and can change.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/ocr-scanner-app-iphone.html
+======================================================================
+
+OCR scanner app for iPhone: how Scanlio turns scans into text
+
+ Scanlio scans paper, ID cards and passports into PDFs with automatic edge detection, recognizes text with multilingual OCR, lets you sign, annotate, white-out, merge and split PDFs, and converts PDF to Word, images or plain text; Scanlio Pro (a weekly, monthly or yearly subscription, or the one-time Lifetime purchase listed on the App Store) unlocks unlimited OCR, editing, signing, conversion and exports and removes ads.
+
+ A scanner app without OCR gives you a picture of a page. A scanner app with OCR gives you the words on that page: text you can search, select, copy into an email, or paste into a spreadsheet. This guide explains what OCR is, why it matters where the recognition happens, how OCR works inside Scanlio on iPhone, iPad and Mac, and how to get the most accurate results from it.
+
+## What OCR actually does
+
+ OCR stands for optical character recognition. It is the step that looks at the pixels of a scanned page, finds the shapes of letters and numbers, and turns them into real characters. Before OCR, a scanned contract is just an image: you can look at it, but your phone has no idea what it says. After OCR, the same PDF carries an invisible text layer under the image. The page still looks like the original, but now you can tap a word to select it, search for a client's name, or copy a paragraph.
+
+ Receipts become searchable by merchant, invoices by number, letters by sender, and a folder of a hundred scans stops being a pile of photos you have to open one by one.
+
+## On-device OCR versus cloud OCR
+
+ Many scanner apps send your pages to a server to run recognition there. Scanlio does not. Its OCR runs on the device itself, using the processing power of your iPhone, iPad or Mac. This has three practical consequences.
+
+ - Privacy. Your contracts, medical letters, tax forms and passport scans never leave the device. Scanlio has no account, no upload and no server that ever sees your documents. The privacy policy states this plainly: scanning, OCR, editing, conversion and storage all happen locally.
+
+ - Offline use. Recognition works in a basement archive, on a plane, or anywhere with no signal.
+
+ - No page quotas tied to a server. Cloud OCR costs the vendor money per page, which is why some apps cap it. Adobe Scan, for example, lists on its App Store page that its Premium plan raises OCR capacity from 5 to 100 pages. Scanlio's limits are only its own free allowance and, on Pro, none at all.
+
+## Multilingual text recognition
+
+ Scanlio's OCR is multilingual. The Scanlio website lists recognition for 100+ languages, and the App Store description describes it as accurate multilingual OCR that makes your PDFs searchable, selectable and copyable. The app's own interface is localized in 34 languages, so the menus match your device language as well.
+
+## How to OCR a scan in Scanlio, step by step
+
+ - Scan or import. Tap the camera button and line up the page. Edge detection finds the corners automatically, so you rarely need to crop by hand. Add more pages if the document has several. You can also import an existing PDF or images (PNG, JPG, HEIC) from Files or Photos using the "+" menu.
+
+ - Open the document. Scanlio recognizes the text so the scan becomes a searchable PDF with a real text layer. You do not need to choose a language first; the multilingual engine handles mixed pages.
+
+ - Use the text. Select and copy words directly from the page, or open Convert and export the document as plain text or Word (.rtf) when you need the whole thing in an editor.
+
+ - Find it later. The library offers full-text search across all your scans. Type a supplier name or an invoice number and Scanlio surfaces the matching documents, not just the ones whose file name matches.
+
+## Tips for more accurate OCR
+
+ OCR is only as good as the image it reads. A few habits make a large difference:
+
+ - Light the page evenly. Scanlio handles low light better than a plain camera, but shadows across the text still cost accuracy. Daylight from the side or an overhead lamp works best.
+
+ - Flatten the page. Curled receipts and folded letters distort character shapes. Press them flat or hold the edges down.
+
+ - Let edge detection do the crop. The automatic crop removes the table or background so the OCR engine only sees the page. If the detected frame is wrong, adjust it before saving.
+
+ - Prefer high contrast. Scanlio's output is deliberately high-contrast, which looks like a real scan rather than a photo and gives the recognizer cleaner strokes.
+
+ - Hold the phone parallel to the page. Shooting at an angle stretches the characters; keep the camera square to the paper.
+
+## Searchable, selectable and copyable PDFs
+
+ After OCR, a Scanlio PDF behaves like a document rather than a picture. You can highlight a sentence and copy it, search inside the file, and any app you share it to (Mail, Files, a cloud drive) will also see the text layer.
+
+ If you want the text without the image, the Convert screen exports PDF to plain text or to Word. That is the quickest route from a printed table of figures to something you can edit.
+
+## Free allowance and Scanlio Pro
+
+ Scanlio is free to download. Every tool in the app, OCR included, shares the same free allowance, and saving your scans is never blocked. Scanlio Pro removes the allowance entirely: unlimited OCR, the full PDF editor, e-signatures, format conversions and unlimited exports, with no ads. Pro is offered as a weekly, monthly or yearly subscription and as a one-time Lifetime purchase; the current prices are listed on the App Store at the time of writing and shown in your local currency on the purchase screen. On iPhone and iPad the free version shows non-personalized ads; the Mac version has no ads.
+
+## Scanlio OCR compared with Apple Live Text
+
+ Apple's Live Text recognizes text in a photo or a Notes scan while you are looking at it, and it is excellent for grabbing a phone number from a sign. It does not, however, build a searchable text layer across a multi-page PDF, and it does not give you a document library you can search by content. Scanlio applies OCR to the whole document, stores the result inside the file, and indexes every scan for full-text search.
+
+## Scanlio OCR compared with Adobe Scan
+
+ Adobe Scan is a capable scanner and its OCR is well regarded. The relevant difference is where and how much. According to its own App Store listing, scans are automatically saved to Adobe Document Cloud, and the Premium plan increases OCR capacity from 5 to 100 pages. Scanlio processes on the device, has no cloud storage requirement, and on Pro places no page cap on recognition.
+
+## Frequently asked questions
+
+ Q: Does Scanlio's OCR work offline?
+Yes. Text recognition runs entirely on your iPhone, iPad or Mac. Scanlio works without an internet connection and your scans are never uploaded to a server for processing.
+
+ Q: Which languages does Scanlio's OCR recognize?
+Scanlio's OCR is multilingual; the Scanlio website lists support for 100+ languages. The app interface itself is localized in 34 languages.
+
+ Q: Is OCR free in Scanlio?
+Scanlio is free to download and every tool, including OCR, shares the same free allowance, and saving is never blocked. Scanlio Pro unlocks unlimited OCR and removes ads.
+
+ Q: Can I copy the recognized text out of a scan?
+Yes. After OCR the text in your PDF is selectable and copyable, and you can also convert a document to plain text or Word from the Convert screen.
+
+ Q: How is Scanlio's OCR different from Apple Live Text?
+Live Text recognizes text in a single photo or scan on screen. Scanlio applies OCR to whole multi-page PDFs, keeps the text layer inside the file, and lets you search across every document in your library.
+
+ Sources: Scanlio on the App Store (v1.0.17, 26 Aug 2026); Scanlio privacy policy; Adobe Scan on the App Store; Apple: Use Live Text. Prices are those listed on the US App Store on 6 September 2026 and can change.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/sign-pdf-on-iphone.html
+======================================================================
+
+How to sign a PDF on iPhone, iPad and Mac
+
+ Scanlio scans paper, ID cards and passports into PDFs with automatic edge detection, recognizes text with multilingual OCR, lets you sign, annotate, white-out, merge and split PDFs, and converts PDF to Word, images or plain text; Scanlio Pro (a weekly, monthly or yearly subscription, or the one-time Lifetime purchase listed on the App Store) unlocks unlimited OCR, editing, signing, conversion and exports and removes ads.
+
+ Someone emails you a lease, a quote or a school form and asks for it back signed today. You do not need a printer. Every iPhone, iPad and Mac can sign a PDF, and the only real question is which tool gives you the cleanest result with the least friction. This guide walks through the three common options on Apple devices, then shows the full signing workflow in Scanlio, including the parts that other tools tend to leave out: dating the document, filling in names, and covering a wrong entry before you sign.
+
+## Three ways to sign a PDF on an iPhone
+
+ - Apple Markup. Open a PDF in Files or from a Mail attachment, tap the pen icon, choose the signature tool and draw. It is free and built in. Markup is fine for a one-off signature, but it does not scan paper documents for you, has no white-out, and its text tool is basic. Apple documents the feature in its iPhone User Guide.
+
+ - Adobe Scan plus Acrobat Reader. Adobe Scan captures the page; according to its App Store listing you then open the scan in the separate Acrobat Reader app to fill forms and sign. Two apps, and scans are saved automatically to Adobe Document Cloud.
+
+ - Scanlio. One app scans the paper, recognizes the text, lets you sign with a stored signature, add text boxes and white-out, and exports the finished PDF. Nothing is uploaded, and no account is required.
+
+## Signing a PDF in Scanlio, step by step
+
+ - Get the document into Scanlio. If it is on paper, tap the camera button and line it up; automatic edge detection crops the page and you can add more pages for a multi-page contract. If it arrived as a file, use the "+" menu to import the PDF or images from Files or Photos.
+
+ - Open Markup. Open the document and choose Markup. This is where signatures, text boxes, highlights, freehand drawing and white-out all live.
+
+ - Draw your signature once. Pick the signature tool and sign with your finger or, on iPad, with Apple Pencil. Scanlio keeps this as a reusable signature, so the next document takes a tap rather than another attempt at your handwriting.
+
+ - Place and size it. Drag the signature onto the signature line, then resize it to fit the box. Landscape forms often have small signature fields; shrink the signature rather than letting it overlap the text.
+
+ - Add the date and any names. Add a text box for the date, your printed name, or an initial in the margin. Text boxes in Scanlio can be moved, resized and recolored, so a dark blue "6 September 2026" next to a blue signature looks like it was written with the same pen.
+
+ - Cover mistakes with white-out. If a field was pre-filled incorrectly, use white-out to cover the old text and type the correction in a text box over it. This is the step Markup alone cannot do.
+
+ - Export and send. Save, then share as PDF via Mail, AirDrop, WhatsApp or any other app. The signed file is a normal PDF that opens anywhere.
+
+## Signing on iPad and Mac
+
+ Scanlio is a universal app. On iPad the same Markup tools work with Apple Pencil, which gives the most natural-looking signature of any method. On Mac (macOS 14 or later) you can import a PDF, place your saved signature, add text boxes and export, which is convenient when the document is already sitting in your Downloads folder. The Mac version of Scanlio shows no ads.
+
+## What makes a reusable signature useful
+
+ The first time you sign in an app, you spend a minute getting the strokes right. The value comes afterwards: a stored signature means the tenth form of the month is signed in seconds, and every copy of your signature looks identical. Because Scanlio keeps that signature on the device, it is available offline and never passes through a server.
+
+## Is an electronic signature valid?
+
+ In many jurisdictions, simple electronic signatures, a drawn signature placed on a document, are accepted for everyday paperwork: quotes, rental agreements, permission slips, consent forms, freelance contracts. Some documents, such as certain deeds, wills or regulated financial instruments, may require a specific type of signature or a witnessed process. If a document matters legally, check the requirements that apply to your country and to the document type. This page is general information, not legal advice.
+
+## Privacy: what happens to your signed document
+
+ Signing is usually the moment a document is most sensitive: it now contains your name, your signature and whatever the form asked for. Scanlio's privacy policy states that scanning, OCR, editing, conversion and storage happen locally on the device, and that Scanlio does not upload, collect, view or store the documents you create. There is no account to create and no cloud you are signed into by default. The file only leaves your device when you choose to share it, and it goes to the recipient you pick.
+
+## Free allowance and Scanlio Pro
+
+ Scanlio is free to download. E-signature is part of Scanlio Pro, and every tool shares the same free allowance, with saving never blocked. Pro unlocks e-signatures, the full PDF editor, unlimited OCR, format conversion and unlimited exports, and removes the non-personalized ads shown in the free iPhone and iPad version. Pro is available as a weekly, monthly or yearly subscription or as a one-time Lifetime purchase; prices are listed on the App Store at the time of writing and shown in your local currency on the purchase screen.
+
+## Common signing problems and fixes
+
+ - The signature looks jagged. Sign larger than you need, then shrink it. Downscaling smooths the strokes; upscaling exaggerates them.
+
+ - The form is a photo, not a PDF. Import the image into Scanlio; it becomes a PDF page you can sign and export like any scan.
+
+ - The recipient wants the pages in a different order. Open Pages to reorder, rotate or delete pages, or merge several documents before signing.
+
+ - You need the text of the contract as well. Use Convert to export to Word or plain text after signing; OCR keeps the document searchable.
+
+## Frequently asked questions
+
+ Q: Can I sign a PDF on iPhone for free?
+Yes. Apple's built-in Markup in Files and Mail can add a signature at no cost. Scanlio is free to download; e-signature is a Scanlio Pro feature that shares the app's free allowance, and Pro unlocks it without limits.
+
+ Q: Do I have to redraw my signature every time in Scanlio?
+No. You draw your signature once, with a finger or Apple Pencil, and Scanlio stores it as a reusable signature you can place on any document afterwards.
+
+ Q: Is my signed document uploaded anywhere?
+No. Scanlio signs, edits and exports entirely on your device. Your document and your stored signature are never sent to Scanlio's servers, and no account is needed.
+
+ Q: Can I sign a PDF on my Mac with Scanlio?
+Yes. Scanlio is a universal app for iPhone, iPad and Mac (macOS 14 or later), so you can import a PDF on the Mac, add your signature and text boxes, and export it.
+
+ Q: Is a signature drawn in an app legally valid?
+In many jurisdictions simple electronic signatures are accepted for everyday documents such as quotes, leases and consent forms. Regulated documents may require a specific type of signature; check the rules that apply to you. This is general information, not legal advice.
+
+ Sources: Scanlio on the App Store (v1.0.17, 26 Aug 2026); Scanlio support page; Scanlio privacy policy; Apple: Fill out forms, sign documents and create signatures; Adobe Scan on the App Store. Prices are those listed on the US App Store on 6 September 2026 and can change.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/adobe-scan-alternative.html
+======================================================================
+
+An Adobe Scan alternative that keeps scans on your device
+
+ Scanlio is an alternative to Adobe Scan, CamScanner, Genius Scan, Scanner Pro, Microsoft Lens and the built-in Apple Notes and Files scanner for people who want scanning, OCR, signing and PDF editing in one app without uploading their documents to a cloud.
+
+ Adobe Scan is one of the most downloaded scanner apps on the App Store, and for good reason: it is free to install, the capture pipeline is reliable, and it plugs straight into the rest of Adobe's PDF tools. If it already does what you need, keep it. This page is for the people who searched for an Adobe Scan alternative because of a specific friction: the cloud upload that happens by default, the small OCR allowance on the free tier, the monthly subscription, or the fact that signing a scan means opening a second app. It explains what Adobe Scan does well, what Scanlio does differently, and how to move your files if you decide to switch.
+
+## What Adobe Scan does well
+
+ Adobe Scan's listing on the App Store describes a free scanner with automatic capture and clean-up, basic text recognition on the free tier, and automatic saving of every scan to Adobe Document Cloud so the file is available on other devices where you sign in. It carries a 4.9-star average across roughly 1.6 million ratings, which reflects a mature product. Because the scans land in Adobe's cloud, opening them in Acrobat Reader to comment, highlight, fill forms and sign is a short hop, and organisations that already pay for Acrobat get a consistent toolchain.
+
+ Adobe Scan is available for iPhone and iPad. A Mac version is not listed on the App Store page we checked.
+
+## Where people look for an alternative
+
+ - Cloud upload by default. The listing states that scans are automatically saved to Adobe Document Cloud. For contracts, medical letters, pay slips or a child's passport, some people prefer a scan that never leaves the phone.
+
+ - A limited OCR allowance on the free tier. Adobe's own premium pitch is that upgrading raises OCR capacity from 5 pages to 100 pages. If you scan more than a handful of text-heavy pages a month, text recognition becomes a paid feature.
+
+ - Combining and extracting pages is paid. Merging several scans into one file and the extract-pages tool are listed as subscriber features.
+
+ - Subscription pricing. At the time of writing the listing shows Adobe Scan Premium at $9.99 per month, Adobe Scan Plus at $4.99 per month or $19.99 per year, and several other tiers between $3.99 and $69.99. There is no one-time purchase in the list.
+
+ - Signing lives in another app. The listing directs you to open the scan in Acrobat Reader to fill forms and sign. It works, but it is a second install and a second set of permissions.
+
+ - Account sign-in. Whether the free tier strictly requires an Adobe ID is not verified from the listing; the cloud save described above implies one.
+
+## How Scanlio compares
+
+ Scanlio takes the opposite architectural decision: everything, including OCR, runs on the device, there is no account, and the file stays in the app's library on your iPhone, iPad or Mac (and in your own iCloud or device backups, which you control). Signing, text boxes, white-out, merging and splitting are inside the same app as the scanner, so a rental agreement can be scanned, signed and sent from one screen.
+
+ | Scanlio | Adobe Scan | 
+
+ Price model | Free download; Pro as weekly, monthly or yearly subscription, or a one-time Lifetime purchase listed at $119.99 on the App Store at the time of writing | Free download; Premium $9.99/month, Plus $4.99/month or $19.99/year, other tiers $3.99–$69.99 (App Store listing at the time of writing); no one-time option listed | 
+
+ OCR on the free tier | Yes, within a shared free allowance; saving is never blocked; unlimited with Pro | Yes, limited; Premium raises OCR capacity from 5 to 100 pages | 
+
+ Sign PDFs | In the app: draw a reusable signature once with finger or Apple Pencil | Via the separate Acrobat Reader app | 
+
+ Edit PDF text / white-out | Movable, resizable text boxes; white-out to cover and replace text; freehand draw and highlight | Basic editing on the free tier; text editing not verified | 
+
+ Merge / split / extract pages | Yes | Paid (subscriber feature per listing) | 
+
+ PDF to Word | Yes (Word/.rtf), plus images and plain text | Not listed on the Adobe Scan page (Adobe offers it in other products); not verified | 
+
+ ID / passport mode | Dedicated guide frame, front-and-back capture, Face ID or PIN lock | Not listed; not verified | 
+
+ Where files are stored | On your device only; no upload | Automatically saved to Adobe Document Cloud | 
+
+ Account required | No | Not verified from the listing; cloud save implies an Adobe ID | 
+
+ Platforms | iPhone, iPad, Mac (iOS 17 / iPadOS 17 / macOS 14 or later) | iPhone, iPad | 
+
+ Two honest caveats. First, Scanlio's free iPhone and iPad version shows non-personalised ads (the Mac version has none, and Pro removes them everywhere). Second, Scanlio is a young app, released in June 2026 and currently at version 1.0.17, so it does not have Adobe's years of edge cases behind it.
+
+## Who should stay with Adobe Scan
+
+ If your company runs on Acrobat and Adobe Sign, Adobe Scan is the natural capture front-end, and the automatic cloud save is a feature rather than a concern. If you scan fewer than five text pages a month and never need to merge files, the free tier may be all you need. And if you are on Android as well as iPhone, Adobe Scan covers both, whereas Scanlio is Apple-only.
+
+## How to switch from Adobe Scan to Scanlio
+
+ - Export the documents you want to keep from Adobe Scan as PDF files and save them to the Files app (or share them to Files from the share sheet). Existing scans stay usable in Adobe Scan; nothing is deleted.
+
+ - Install Scanlio from the App Store. No sign-up screen: the app opens on its library.
+
+ - Tap the “+” menu and choose import. Scanlio accepts PDFs and images (PNG, JPG, HEIC) from Files or Photos, so a batch export from Adobe Scan comes across as-is.
+
+ - Run OCR on any file you want searchable. The recognised text feeds Scanlio's full-text search across the library.
+
+ - From now on, scan directly in Scanlio. Automatic edge detection, multi-page capture and the high-contrast output are on by default.
+
+ Because Scanlio never uploads anything, there is no second account to delete afterwards. If you want your Adobe Document Cloud copies gone, remove them from your Adobe account separately.
+
+## Frequently asked questions
+
+ Q: Is Scanlio really free, or is it a trial?
+Scanlio is free to download and every tool works within a shared free allowance; saving is never blocked. Scanlio Pro removes the allowance and the ads. It is sold as a weekly, monthly or yearly subscription, and the App Store listing also shows a one-time Lifetime purchase at $119.99 at the time of writing.
+
+ Q: Does Scanlio upload my scans to a cloud like Adobe Scan does?
+No. Scanning, OCR, editing and conversion all run on the device, and the files stay in the app's library on your iPhone, iPad or Mac. There is no Scanlio account and no server-side copy.
+
+ Q: Can I sign a PDF in Scanlio without another app?
+Yes. You draw a signature once with your finger or Apple Pencil, then place it on any page. Adobe Scan directs you to the separate Acrobat Reader app for signing.
+
+ Q: Does Scanlio have a Mac app?
+Yes. Scanlio is a universal app for iPhone, iPad and Mac and requires iOS 17, iPadOS 17 or macOS 14 or later. Adobe Scan's App Store page lists iPhone and iPad only.
+
+ Q: Is the OCR in Scanlio limited on the free tier?
+OCR shares the same free allowance as the other tools. Scanlio Pro makes OCR unlimited. Adobe Scan's free tier is limited to a small number of OCR pages, with Premium raising it to 100 pages according to its listing.
+
+ Sources: Scanlio on the App Store (v1.0.17, 26 Aug 2026), Adobe Scan on the App Store (feature and price statements quoted from its listing), Scanlio privacy policy. Prices are those listed on the US App Store on 6 September 2026 and can change.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/camscanner-alternative.html
+======================================================================
+
+A CamScanner alternative with no watermark and no cloud upload
+
+ Scanlio is an alternative to Adobe Scan, CamScanner, Genius Scan, Scanner Pro, Microsoft Lens and the built-in Apple Notes and Files scanner for people who want scanning, OCR, signing and PDF editing in one app without uploading their documents to a cloud.
+
+ CamScanner has been on the App Store since 2011 and is, by rating count, one of the largest scanner apps in existence. It is also the app most often named in searches for “scanner without watermark” and “scanner without subscription”, because its free tier stamps a watermark on output and its paid tier is a recurring Premium account. This page sets out, from CamScanner's own App Store listing, what it does well and where the friction is, then shows how Scanlio handles the same jobs and how to move your documents across.
+
+## What CamScanner does well
+
+ CamScanner's listing describes a broad tool: text recognition (OCR), a built-in e-signature, filters and noise removal for cleaning up scans, and export to a long list of formats including PDF, JPG, DOC and DOCX, TXT, XLS and XLSX, and PPT and PPTX. It uploads to Dropbox, Google Drive, Evernote and OneDrive, runs on iPhone, iPad and Apple-silicon Macs, and carries a 4.8-star average across about 1.9 million ratings. If you need a scan turned into an editable spreadsheet or slide deck, CamScanner lists formats that Scanlio does not.
+
+## Where people look for an alternative
+
+ - Watermark on the free tier. User reviews quoted on the listing describe a watermark in the bottom-right corner of documents produced without paying. A watermarked scan is rarely acceptable for a lease, an invoice or a form you are returning to an administration.
+
+ - Ads. Advertising is listed under “Contains” on the App Store page.
+
+ - Subscription-only Premium. At the time of writing the listing shows a Premium account at $9.99 per month or $59.99 per year, with other Premium items between $4.99 and $69.99. No one-time purchase appears in the list.
+
+ - Cloud and account. Cloud upload to third-party services is a headline feature. Whether a CamScanner account is required for basic scanning is not verified from the listing.
+
+## How Scanlio compares
+
+ Scanlio does not add a watermark at any tier. Its free tier is defined by a shared allowance across tools rather than by marking your output, and the 1.0.17 release notes state that saving is never blocked. Files are never uploaded: scanning, OCR, editing and conversion run on the device, and there is no account to create. For the recurring-payment objection, the App Store listing shows Scanlio Pro as a weekly, monthly or yearly subscription and also as a one-time Lifetime purchase at $119.99 at the time of writing.
+
+ | Scanlio | CamScanner | 
+
+ Price model | Free download; Pro as weekly, monthly or yearly subscription, or a one-time Lifetime purchase listed at $119.99 (App Store, at the time of writing) | Free download; Premium account $9.99/month or $59.99/year, other Premium items $4.99–$69.99 (App Store listing at the time of writing); no one-time option listed | 
+
+ Watermark on free output | No | Yes, per user reviews quoted on the listing | 
+
+ OCR on the free tier | Yes, within a shared free allowance; unlimited with Pro | OCR listed; free-tier limits not verified | 
+
+ Sign PDFs | Yes, reusable signature drawn once | Yes, e-signature listed | 
+
+ Edit PDF text / white-out | Movable text boxes, white-out, freehand draw and highlight | Filters and noise removal listed; text editing not verified | 
+
+ Merge / split / extract pages | Yes | Not verified | 
+
+ PDF to Word | Yes (Word/.rtf), images and plain text | Yes: DOC, DOCX, plus XLS, PPT, TXT and more | 
+
+ ID / passport mode | Guide frame, front-and-back capture, Face ID or PIN lock | Not verified | 
+
+ Where files are stored | On your device only; no upload | Device plus optional upload to Dropbox, Google Drive, Evernote, OneDrive | 
+
+ Account required | No | Not verified | 
+
+ Platforms | iPhone, iPad, Mac (iOS 17 / iPadOS 17 / macOS 14 or later) | iPhone, iPad, Mac with Apple silicon (iOS 13 / macOS 13 or later) | 
+
+ Scanlio's honest limits: the free iPhone and iPad version shows non-personalised ads (none on the Mac version, none with Pro), the conversion targets are Word, images and plain text rather than spreadsheets or slides, and the app is new, first released in June 2026.
+
+## Who should stay with CamScanner
+
+ Stay if you rely on Excel or PowerPoint output from scans, if your workflow is built around uploading to Dropbox, Drive, Evernote or OneDrive from inside the scanner, or if you also use Android and want the same app on both platforms. CamScanner's fax option (a one-page fax is listed at $0.99) is another feature Scanlio does not offer.
+
+## How to switch from CamScanner to Scanlio
+
+ - In CamScanner, export the documents you want to keep as PDF and save them to the Files app. If you already had a Premium account, these exports are clean; free-tier exports carry the watermark and are best re-scanned.
+
+ - Install Scanlio. There is no sign-up step.
+
+ - Use the “+” menu to import PDFs or images (PNG, JPG, HEIC) from Files or Photos. Multi-page PDFs come in as multi-page documents.
+
+ - Run OCR where you need searchable text; the result feeds full-text search across your Scanlio library.
+
+ - Re-scan the originals of any watermarked pages you still have. Automatic edge detection and the high-contrast output are on by default, and multi-page capture builds a single PDF.
+
+ Once the files are in Scanlio, sharing goes through the standard iOS share sheet as PDF, JPG or Word, so Mail, AirDrop, WhatsApp or any cloud app you already use keeps working without a scanner-specific integration.
+
+## Frequently asked questions
+
+ Q: Does Scanlio put a watermark on scans?
+No. Scanlio does not add a watermark on any tier. The free tier is limited by a shared allowance across tools, and saving is never blocked; Scanlio Pro removes the allowance and the ads.
+
+ Q: Can I use Scanlio without a subscription?
+Yes. Scanlio is free to download and use within its free allowance. To go unlimited you can subscribe weekly, monthly or yearly, or buy the one-time Lifetime option listed on the App Store at $119.99 at the time of writing.
+
+ Q: Does Scanlio upload documents to Dropbox or Google Drive?
+Scanlio has no built-in cloud upload. Files stay on your device, and you share them through the iOS share sheet to Mail, AirDrop, WhatsApp or any app, including cloud apps you already have installed.
+
+ Q: Can Scanlio export to Excel or PowerPoint like CamScanner?
+No. Scanlio converts PDF to Word (as .rtf), to images and to plain text. CamScanner lists XLS, XLSX, PPT and PPTX among its export formats.
+
+ Q: Is Scanlio available on Mac?
+Yes. Scanlio is a universal app for iPhone, iPad and Mac and requires iOS 17, iPadOS 17 or macOS 14 or later. The Mac version shows no ads.
+
+ Sources: Scanlio on the App Store (v1.0.17, 26 Aug 2026), CamScanner on the App Store (features, prices and quoted reviews from its listing), Scanlio privacy policy. Prices are those listed on the US App Store on 6 September 2026 and can change.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/genius-scan-alternative.html
+======================================================================
+
+A Genius Scan alternative with OCR, signing and editing in one app
+
+ Scanlio is an alternative to Adobe Scan, CamScanner, Genius Scan, Scanner Pro, Microsoft Lens and the built-in Apple Notes and Files scanner for people who want scanning, OCR, signing and PDF editing in one app without uploading their documents to a cloud.
+
+ Genius Scan, by The Grizzly Labs in Paris, is one of the longest-running scanner apps on iOS and one of the best regarded: a 4.9-star average over roughly 1.4 million ratings, no watermark, and an export list that covers almost every cloud service in use. People rarely leave it because it scans badly. They look for an alternative because the pieces they need are split across products: text extraction is a premium plan, signing is a companion app called Genius Sign, and multi-device sync is a separate Genius Cloud subscription with an account. This page compares that arrangement with Scanlio's single-app approach and explains how to move.
+
+## What Genius Scan does well
+
+ The listing describes precise capture with cropping and filters, merging and splitting of documents, and background auto-export to Box, Dropbox, Evernote, Expensify, Google Drive, iCloud Drive, OneDrive, OneNote, FTP, SugarSync and WebDAV. Business-card scanning with contact creation is available on a premium plan. There is no watermark mentioned anywhere, and the free tier is usable for straightforward scan-and-share work. The app requires iOS 17 and runs on iPhone and iPad, with an iMessage extension.
+
+## Where people look for an alternative
+
+ - OCR and searchable PDFs are premium. The listing says text extraction and searchable PDF creation are “available as part of a premium plan”. Genius Scan Plus is listed at $0.99 and $11.99 and Genius Scan Ultra between $4.99 and $49.99 at the time of writing; whether the Plus items are one-time purchases or subscriptions is not verified from the listing.
+
+ - Signing is a separate app. Digital signing is handled by the companion app Genius Sign rather than inside Genius Scan.
+
+ - No PDF text editing. Editing in Genius Scan means cropping, filters, merging and splitting. Adding a text box or whiting out a line on a scanned form is not listed.
+
+ - Sync needs an account and another subscription. Backup and multi-device sync come from Genius Cloud, sold separately, and require an account.
+
+ - No Mac app on the listing. The App Store page lists iPhone and iPad. A Mac version is not verified.
+
+ - ID and passport capture. A dedicated ID or passport mode is not listed; not verified.
+
+## How Scanlio compares
+
+ Scanlio puts the scanner, the OCR engine, the signature tool and the PDF editor in one app that runs on iPhone, iPad and Mac. OCR is available on the free tier within a shared allowance and unlimited with Pro; signing uses a signature you draw once and reuse; the editor adds movable text boxes, white-out, freehand drawing and highlights; and merge, split and page extraction are built in. Nothing is uploaded, so there is no sync service to subscribe to and no account. Your files live on the device and in whatever iCloud or device backup you already run.
+
+ | Scanlio | Genius Scan | 
+
+ Price model | Free download; Pro as weekly, monthly or yearly subscription, or a one-time Lifetime purchase listed at $119.99 (App Store, at the time of writing) | Free download; Plus $0.99 / $11.99, Ultra $4.99–$49.99, Genius Cloud sold separately (App Store listing at the time of writing); one-time vs subscription not verified | 
+
+ OCR on the free tier | Yes, within a shared free allowance; unlimited with Pro | No: text extraction and searchable PDFs are on a premium plan | 
+
+ Sign PDFs | In the app, reusable signature | Via the companion app Genius Sign | 
+
+ Edit PDF text / white-out | Text boxes, white-out, freehand draw and highlight | Not listed (crop, filters only) | 
+
+ Merge / split / extract pages | Yes | Yes, merge and split listed | 
+
+ PDF to Word | Yes (Word/.rtf), images and plain text | Not listed; not verified | 
+
+ ID / passport mode | Guide frame, front-and-back capture, Face ID or PIN lock | Not listed; not verified | 
+
+ Where files are stored | On your device only; no upload | Device, plus auto-export to many cloud services; sync via Genius Cloud | 
+
+ Account required | No | Yes for Genius Cloud sync; not required for basic scanning (not verified) | 
+
+ Platforms | iPhone, iPad, Mac (iOS 17 / iPadOS 17 / macOS 14 or later) | iPhone, iPad, iMessage (iOS 17 or later); Mac not verified | 
+
+ What Genius Scan has that Scanlio lacks: direct export to a dozen cloud and FTP destinations, business-card-to-contact scanning, and a decade of refinement. Scanlio was released in June 2026 and is at version 1.0.17; its free iPhone and iPad version shows non-personalised ads (the Mac version has none, Pro removes them).
+
+## Who should stay with Genius Scan
+
+ If your documents must land automatically in Dropbox, OneDrive, a WebDAV share or an FTP server without touching the share sheet, Genius Scan's auto-export is the reason to stay. If you already own Genius Scan Plus and only need clean scans without OCR, there is nothing to gain by moving. Expensify users and people who scan business cards into Contacts are also better served there.
+
+## How to switch from Genius Scan to Scanlio
+
+ - Export the documents you want to keep from Genius Scan as PDF into the Files app (or into iCloud Drive, which Genius Scan supports as an export target).
+
+ - Install Scanlio from the App Store; it opens directly on the library with no account step.
+
+ - Import from the “+” menu. Scanlio takes PDFs and PNG, JPG or HEIC images from Files or Photos.
+
+ - Run OCR on the imported files if you want them searchable and copyable; the text feeds Scanlio's full-text search.
+
+ - Delete the Genius Sign app if you only installed it to sign scans; Scanlio's signature tool covers that.
+
+ If you used Genius Cloud, remember that cancelling that subscription is a separate step in your App Store account settings.
+
+## Frequently asked questions
+
+ Q: Is OCR free in Scanlio?
+OCR is available on the free tier within a shared allowance across tools, and saving is never blocked. Scanlio Pro makes OCR unlimited. On Genius Scan, text extraction and searchable PDFs are listed as premium-plan features.
+
+ Q: Can Scanlio sign PDFs without a separate app?
+Yes. You draw a signature once with a finger or Apple Pencil and place it on any page inside Scanlio. Genius Scan hands signing to its companion app Genius Sign.
+
+ Q: Does Scanlio sync between iPhone, iPad and Mac?
+Scanlio has no sync service and no account; documents stay on each device. You can move a file between devices with AirDrop or by saving it to the Files app. The App Store listing also shows Scanlio Cloud items, but the listing does not describe them, so their scope is not verified.
+
+ Q: Can Scanlio export straight to Dropbox or OneDrive like Genius Scan?
+Not through a built-in integration. Scanlio shares through the standard iOS share sheet, so you can send a PDF to any cloud app you have installed, but it will not auto-export in the background.
+
+ Q: Is there a one-time purchase in Scanlio?
+The App Store listing shows a Lifetime in-app purchase at $119.99 at the time of writing, alongside weekly, monthly and yearly Scanlio Pro subscriptions.
+
+ Sources: Scanlio on the App Store (v1.0.17, 26 Aug 2026), Genius Scan on the App Store (features, prices and premium-plan statements from its listing), Scanlio privacy policy. Prices are those listed on the US App Store on 6 September 2026 and can change.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/scanner-pro-alternative.html
+======================================================================
+
+A Scanner Pro alternative that runs on iOS 17 and on the Mac
+
+ Scanlio is an alternative to Adobe Scan, CamScanner, Genius Scan, Scanner Pro, Microsoft Lens and the built-in Apple Notes and Files scanner for people who want scanning, OCR, signing and PDF editing in one app without uploading their documents to a cloud.
+
+ Scanner Pro by Readdle is the scanner many iPhone users bought years ago as a paid app and have kept since. It now ships as a free download with a Scanner Pro Plus in-app purchase, it includes OCR, a signature tool and annotation, and it carries a 4.9-star average across about 335,000 ratings. It is a strong product. The reasons people search for a Scanner Pro alternative tend to be practical: it requires iOS 18, there is no Mac app on its listing, the Plus tier is a recurring purchase, and the free-tier limits are not spelled out. This page lays out those points from the listing, then shows where Scanlio differs and how to move your files.
+
+## What Scanner Pro does well
+
+ Scanner Pro's listing describes text recognition that turns scans into searchable text, a signature feature introduced in version 8.36 so you can sign inside the app, and editing by highlighting, writing and drawing on documents. It integrates with Dropbox, Evernote, Google Drive, Box, iCloud Drive, OneDrive, OneNote and WebDAV storage, and offers iCloud sync. Plus features include Auto Name, Smart Filters, Measure Mode and, on iOS 26, a Translator. Add-ons such as a fax pack ($0.99) and an expense report ($4.99) are listed too. It runs on iPhone, iPad and Apple Vision.
+
+## Where people look for an alternative
+
+ - iOS 18 or later is required. The listing states iOS 18.0, iPadOS 18.0 or visionOS 2.0. Anyone on an iPhone or iPad that stopped at iOS 17 cannot install the current version.
+
+ - No Mac app on the listing. Scanner Pro's App Store page lists iPhone, iPad and Apple Vision. A Mac version is not verified.
+
+ - Recurring Plus purchase. Scanner Pro Plus items are listed between $3.99 and $59.99 at the time of writing. The listing describes Plus as “professional scanning without ads and limits”, which implies the free tier has both; the exact free-tier limits are not verified.
+
+ - Cloud-centred workflow. The integrations are a strength, but they mean documents routinely leave the device. Whether basic scanning requires an account is not verified from the listing.
+
+ - No PDF text editing or white-out listed. Editing is described as highlighting, writing and drawing. Adding a typed text box or covering a line is not listed.
+
+ - No ID or passport mode listed. Not verified.
+
+## How Scanlio compares
+
+ Scanlio runs on iOS 17, iPadOS 17 and macOS 14 or later, so it covers one more iOS generation than Scanner Pro and adds a native Mac app. OCR, a reusable signature, movable text boxes, white-out, freehand annotation, merging and splitting are all in the app, and PDF converts to Word, images or plain text. Nothing is uploaded and there is no account. On price, the App Store listing shows Scanlio Pro as weekly, monthly or yearly subscriptions and as a one-time Lifetime purchase at $119.99 at the time of writing; the free tier gives every tool a shared allowance and never blocks saving.
+
+ | Scanlio | Scanner Pro | 
+
+ Price model | Free download; Pro as weekly, monthly or yearly subscription, or a one-time Lifetime purchase listed at $119.99 (App Store, at the time of writing) | Free download; Scanner Pro Plus $3.99–$59.99, fax pack $0.99, expense report $4.99 (App Store listing at the time of writing); one-time vs subscription not verified | 
+
+ OCR on the free tier | Yes, within a shared free allowance; unlimited with Pro | OCR described as included; free-tier limits not verified | 
+
+ Sign PDFs | Yes, reusable signature drawn once | Yes, signature feature since version 8.36 | 
+
+ Edit PDF text / white-out | Text boxes, white-out, freehand draw and highlight | Highlight, write and draw; text boxes and white-out not listed | 
+
+ Merge / split / extract pages | Yes | Not verified | 
+
+ PDF to Word | Yes (Word/.rtf), images and plain text | Not listed; not verified | 
+
+ ID / passport mode | Guide frame, front-and-back capture, Face ID or PIN lock | Not listed; not verified | 
+
+ Where files are stored | On your device only; no upload | Device, iCloud sync, and export to Dropbox, Drive, Box, OneDrive, OneNote, Evernote, WebDAV | 
+
+ Account required | No | Not verified | 
+
+ Platforms | iPhone, iPad, Mac (iOS 17 / iPadOS 17 / macOS 14 or later) | iPhone, iPad, Apple Vision (iOS 18 / iPadOS 18 / visionOS 2 or later); Mac not verified | 
+
+ Scanlio's limits, stated plainly: no Apple Vision app, no fax, no expense-report generator, no background cloud export, and the free iPhone and iPad version shows non-personalised ads (none on Mac, none with Pro). The app was first released in June 2026 and is at version 1.0.17.
+
+## Who should stay with Scanner Pro
+
+ If you scan straight into Evernote, OneNote or a WebDAV server, Scanner Pro's integrations are the reason to keep it. Its Measure Mode, Translator and expense report add-on have no equivalent in Scanlio. Apple Vision owners have a Scanner Pro app and no Scanlio app. And if you already paid for Plus and are happy with iOS 18, there is no cost to staying.
+
+## How to switch from Scanner Pro to Scanlio
+
+ - Export your Scanner Pro documents as PDF to the Files app. If you had iCloud sync on, the files may already be in iCloud Drive.
+
+ - Install Scanlio. It opens on the library; there is no sign-up.
+
+ - Tap “+” and import PDFs or PNG, JPG and HEIC images from Files or Photos.
+
+ - Run OCR on anything you want searchable. Scanlio's full-text search then covers the imported files as well as new scans.
+
+ - If you also want the files on your Mac, install Scanlio from the Mac App Store and move the PDFs across with AirDrop or the Files app. Scanlio has no sync service, so each device keeps its own copy.
+
+## Frequently asked questions
+
+ Q: Does Scanlio work on iOS 17?
+Yes. Scanlio requires iOS 17, iPadOS 17 or macOS 14 or later. Scanner Pro's App Store listing requires iOS 18, iPadOS 18 or visionOS 2.
+
+ Q: Is there a Scanlio app for Mac?
+Yes. Scanlio is a universal app for iPhone, iPad and Mac. The Mac version shows no ads. Scanner Pro's listing covers iPhone, iPad and Apple Vision; a Mac version is not verified.
+
+ Q: Does Scanlio have cloud integrations like Scanner Pro?
+No built-in integrations. Scanlio keeps files on the device and shares through the iOS share sheet to Mail, AirDrop, WhatsApp or any app, including cloud apps you already use.
+
+ Q: Can I buy Scanlio once instead of subscribing?
+The App Store listing shows a one-time Lifetime in-app purchase at $119.99 at the time of writing, alongside weekly, monthly and yearly Scanlio Pro subscriptions. The free tier works within a shared allowance and never blocks saving.
+
+ Q: Can Scanlio add text or white-out on a scan?
+Yes. The editor adds movable, resizable text boxes, a white-out tool to cover and replace existing text, and freehand drawing and highlighting. Scanner Pro's listing describes highlighting, writing and drawing.
+
+ Sources: Scanlio on the App Store (v1.0.17, 26 Aug 2026), Scanner Pro on the App Store (features, requirements and prices from its listing), Scanlio privacy policy. Prices are those listed on the US App Store on 6 September 2026 and can change.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/scanlio-for-receipts.html
+======================================================================
+
+Scanlio for receipts: a scanning workflow for freelancers and small businesses
+
+ Scanlio scans paper, ID cards and passports into PDFs with automatic edge detection, recognizes text with multilingual OCR, lets you sign, annotate, white-out, merge and split PDFs, and converts PDF to Word, images or plain text; Scanlio Pro (a weekly, monthly or yearly subscription, or the one-time Lifetime purchase listed on the App Store) unlocks unlimited OCR, editing, signing, conversion and exports and removes ads.
+
+ Receipts are the worst kind of paper: small, thermal, curled, printed in faint grey, and needed months later by someone who is not you. This page describes a receipt routine built entirely on what Scanlio does today, from the moment a waiter hands you the slip to the moment your accountant receives one tidy PDF. It also says plainly what Scanlio does not do, so you can decide whether it fits your bookkeeping.
+
+## Why a scanner app instead of the photo roll
+
+ A photo of a receipt is a picture; a scan is a document. Scanlio detects the edges of the slip automatically, straightens it, and produces a high-contrast image that keeps the printed digits legible even when the original was crumpled in a pocket. The capture works in low light, which is where most receipts are photographed: restaurants, taxis, parking garages. The result is saved as a PDF in a library you can search, not as one more image lost between holiday photos.
+
+## Step 1: capture the receipt the same day
+
+ Thermal paper fades, so the best time to scan is before you leave the table. Open Scanlio, tap the camera button, and hold the phone flat above the receipt. The guide frame locks on to the edges; if the slip is long, keep the whole thing in view rather than zooming in. Three habits improve OCR accuracy:
+
+ - Flatten it. Press the receipt against a table or a menu for a second so the creases open up.
+
+ - Avoid glare. Tilt slightly away from the overhead light; shiny thermal paper reflects a bright bar across the numbers.
+
+ - Scan the same day. A week in a wallet turns crisp black print into grey, and no amount of contrast recovers ink that is gone.
+
+ If a receipt arrives by email as a PDF or an image, use the “+” menu to import it from Files or Photos so it sits in the same library as your paper ones.
+
+## Step 2: build a monthly bundle
+
+ Some people scan every receipt as its own document; others keep shooting so a whole week becomes one multi-page PDF. Both work. A useful middle ground is one document per trip or per client, named accordingly. Rename documents in the library as soon as they are captured, for example “2026-09 Client visit Lyon”, and sort by date when you need to review a period. Because Scanlio also lets you reorder, rotate and delete pages, a badly captured page can be replaced without redoing the whole bundle.
+
+## Step 3: make them searchable with OCR
+
+ OCR is what turns a pile of receipt images into something you can query. Scanlio recognizes the text on each scan on the device, and the library then offers full-text search across everything. Type a vendor name and every receipt from that vendor appears; type an amount you remember and the matching slip surfaces. The OCR is multilingual, which matters if you travel: a receipt in German or Japanese is recognized in its own language rather than mangled. Receipts are where this pays off most, because they are the documents you are least likely to have named carefully.
+
+ Be clear about the boundary. Scanlio recognizes and indexes the text; it does not read the total into a field, guess the category, or add up a month. That work belongs to whatever spreadsheet or accounting software you already use.
+
+## Step 4: merge a month into one PDF
+
+ At month end, select the receipts for the period in the library and merge them into a single PDF. If a bundle also contains personal purchases, open it, go to Pages, and extract only the business pages into a new file. If an accountant wants receipts grouped by category, split the merged file into a few smaller ones. All of this happens on the device, with no upload.
+
+## Step 5: hand it over
+
+ Share the merged PDF through Mail, AirDrop or WhatsApp, or send it to any app that accepts files, such as a cloud folder your accountant already shares with you. If they prefer text, open Convert and export the recognized text or a Word (.rtf) file instead. The exported files are ordinary PDFs and documents; any bookkeeping tool that can import a PDF can take them. Scanlio does not add a watermark to exports.
+
+## Why on-device matters for receipts in particular
+
+ Receipts often carry the last four digits of a card, a loyalty number, a name, sometimes an address. Scanlio processes and stores every scan on your iPhone, iPad or Mac and never uploads it; the privacy policy states that documents, images and text you create are not collected, viewed or stored by the developer. There is no account and no cloud inbox to secure. The only copies that exist are the ones on your device and in the backup you already run. That is the reason to pick an offline scanner over a cloud-first one.
+
+## How this compares with expense-app scanners
+
+ Dedicated expense tools go further on the accounting side and less far on the document side. Scanner Pro sells an “Expense Report” add-on listed at $4.99, and Genius Scan can export directly to Expensify, according to their App Store listings at the time of writing. Scanlio does not integrate with any accounting software; it produces PDF, image, Word and text files that any of those tools can import, and it keeps the originals private and searchable on the device. If you need automatic totals and mileage, pair Scanlio with your accounting app. If you need clean, searchable, private receipt archives that you hand to a human once a month, Scanlio alone covers it.
+
+## What it costs
+
+ Scanning receipts is free, and as of version 1.0.17 every tool shares the same free allowance, with saving never blocked. Heavy use of OCR, merging, conversion and export is where Scanlio Pro comes in: unlimited OCR, the full editor, unlimited exports and no ads. At the time of writing the US App Store lists Pro Weekly at $4.99, Pro Monthly at $12.99, Pro Yearly at $22.99 and a one-time Lifetime purchase at $119.99. For someone scanning a few dozen receipts a month, the yearly plan is the sensible choice; for a business that wants no recurring charge, the Lifetime option exists on the listing. Prices are shown in your local currency at checkout and can change.
+
+## Frequently asked questions
+
+ Q: Does Scanlio extract totals or categorize receipts automatically?
+No. Scanlio recognizes the text on a receipt with OCR so you can search and copy it, but it does not extract totals, assign categories or build expense reports. Export the PDF or text and let your accounting tool do that part.
+
+ Q: Can I keep receipts off the cloud?
+Yes. Scanlio works entirely offline and never uploads documents to a server. Your files stay on your device and in whatever backup you already use.
+
+ Q: How do I send a month of receipts to my accountant?
+Select the receipts in the library, merge them into one PDF, then share it via Mail, AirDrop, WhatsApp or any other app. You can also export the recognized text as a separate file.
+
+ Q: Is receipt scanning free?
+Scanning is free, and every tool shares one free allowance. Unlimited OCR, editing, conversion and exports need Scanlio Pro, listed on the App Store as a weekly, monthly or yearly subscription or a one-time Lifetime purchase.
+
+ Q: Does Scanlio work with faded thermal receipts?
+The high-contrast output helps, but OCR accuracy on faded or crumpled paper depends on how much ink is left. Scan receipts the same day, flatten them and avoid glare for the most reliable text.
+
+ Sources: Scanlio on the App Store (v1.0.17, 26 Aug 2026), Scanlio support page, Scanlio privacy policy, Scanner Pro on the App Store, Genius Scan on the App Store. Prices are those listed on the US App Store on 6 September 2026 and can change.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/scanlio-for-students.html
+======================================================================
+
+Scanlio for students: scan handouts, search notes and edit PDFs across a semester
+
+ Scanlio scans paper, ID cards and passports into PDFs with automatic edge detection, recognizes text with multilingual OCR, lets you sign, annotate, white-out, merge and split PDFs, and converts PDF to Word, images or plain text; Scanlio Pro (a weekly, monthly or yearly subscription, or the one-time Lifetime purchase listed on the App Store) unlocks unlimited OCR, editing, signing, conversion and exports and removes ads.
+
+ A semester produces paper faster than anyone can file it: photocopied handouts, a whiteboard the lecturer erases before you finish copying, library books you cannot take home, forms that need a signature by Friday. This page walks through how a student can use Scanlio on iPhone, iPad and Mac to turn all of that into searchable PDFs, and where a free built-in tool is honestly good enough.
+
+## Capture: handouts, whiteboards, textbook pages
+
+ Tap the camera button and Scanlio finds the edges of the page automatically, straightens it and produces a clean, high-contrast scan. That works on a stapled handout held flat on a desk, and it also works on a whiteboard photographed from your seat, where the perspective correction and contrast matter most. Keep shooting and a twelve-page reading pack becomes one PDF rather than twelve photos. Capture copes with the low light of a lecture hall or a library carrel. Textbook pages from a book you cannot borrow are the same routine. Slides shared as PDFs and images sent by classmates can be imported through the “+” menu from Files or Photos, so everything for a course lives in one library.
+
+## Search: OCR across a whole term
+
+ Scanning is only half the job; finding the right page during revision is the other half. Scanlio runs OCR on the device so the text in every scan becomes searchable, selectable and copyable. When you need the definition a lecturer gave in week three, type the term into the library search and the page appears, even if you never named the file. Copy a quotation straight out of a scanned journal article and paste it into your essay with the page reference. The OCR is multilingual, which is a quiet advantage for language students and for anyone whose reading list mixes English with French, Spanish, German or another language: each scan is recognized in its own language, so a search for a foreign term works the same as a search in English. OCR is built for printed text; handwriting recognition is not something Scanlio promises.
+
+## Annotate: highlight and write with Apple Pencil
+
+ Open a document and choose Markup. On iPad with Apple Pencil, highlighting a reading pack feels like using a marker on paper, and freehand drawing lets you circle a diagram or scribble a margin note. Text boxes can be moved, resized and recolored, which is handy for adding a typed summary at the top of a chapter. White-out covers existing text so you can replace it, for example blanking answers on a practice sheet to test yourself later. They all work on iPhone with a finger too.
+
+## Organize: merge per course, split when needed
+
+ By mid-term the library fills up. Select all the handouts for one course and merge them into a single PDF, then sort the library by name or date to keep courses apart. When a lecturer distributes a 200-page reader and you only need chapters four and five, open Pages and extract just those pages into a new document, or split the file into sections so each week is its own PDF. Reorder, rotate and delete pages to fix a scan you captured upside down. Consistent names such as “HIST201 Week 05” pay off in the search box.
+
+## Convert: from PDF to Word or text
+
+ Scanned sources rarely stay as scans. Open Convert to export a document to Word (as an .rtf file that Word, Pages and Google Docs open), to images, or to plain text. Plain text is the fastest way to move a passage into an essay draft. Conversion happens on the device, so a chapter you are not supposed to redistribute never leaves your iPad.
+
+## Sign: enrolment forms and permission slips
+
+ Universities still love forms. Draw your signature once in Markup and reuse it on every enrolment form, accommodation agreement, permission slip and internship document that arrives as a PDF. Fill the blanks with text boxes, drop in the signature, then share the finished file back by Mail or AirDrop. No printer, no scanner queue in the library.
+
+## Applications: student ID and passport
+
+ Exchange programmes, visas and student discounts all ask for a scan of your ID or passport. Choose “Scan ID / Passport” and Scanlio shows a guide frame sized to a card or passport page, captures front and back, and saves both together. Long-press the document to lock it behind Face ID or a PIN so it stays private on a phone that friends borrow. Because Scanlio works offline and never uploads documents, the scan exists only on your device and in your own backup.
+
+## Continue on Mac
+
+ Scanlio is one universal app for iPhone, iPad and Mac (iOS 17, iPadOS 17 or macOS 14 and later). Scan in the lecture hall on your phone, AirDrop the PDF to your Mac, and finish annotating or converting at your desk. There is no account to sign into on either device and no cloud service to configure; files move by AirDrop, Mail or any storage app you already use, and the Mac version shows no ads at all.
+
+## What it costs on a student budget
+
+ Scanlio is free to download and scan, and as of version 1.0.17 every tool shares the same free allowance with saving never blocked, so you can use OCR, the editor and conversion before deciding. Scanlio Pro removes the limits and the ads. The yearly plan is the cheapest per month: the site shows roughly $20 a year, and the US App Store lists Pro Yearly at $22.99 at the time of writing, with a free trial whose length is shown on the purchase screen. Weekly and monthly plans exist for a single busy exam period, and a one-time Lifetime purchase is listed at $119.99 for anyone who prefers no subscription. Prices appear in your local currency at checkout and can change.
+
+## Honest note: when Apple Notes is enough
+
+ The Notes and Files apps on iPhone can scan documents for free, and for a quick capture of a single page that you will read once, that is fine. Scanlio earns its place when the paper keeps coming: a library with full-text search across a whole semester, a PDF editor with white-out and a reusable signature, merge and split for course readers, a dedicated ID mode with Face ID lock, and PDF-to-Word or text conversion, all running offline on the device.
+
+## Frequently asked questions
+
+ Q: Is Scanlio free for students?
+Scanlio is free to download and scan, and every tool shares one free allowance. There is no separate student discount; the yearly plan, about $20 a year on the site and listed at $22.99 on the US App Store at the time of writing, is the cheapest per month.
+
+ Q: Can I search my handwritten notes?
+Scanlio's OCR is designed for printed text such as handouts, textbook pages and slides. Results on handwriting are not guaranteed, so for reliable search scan printed material and put key terms in the document name.
+
+ Q: Does it work without Wi-Fi in a lecture hall?
+Yes. Scanning, OCR, editing and conversion all run on the device, so nothing needs a connection.
+
+ Q: Can I annotate with Apple Pencil on iPad?
+Yes. Open a document, choose Markup, and draw, highlight or add text boxes with Apple Pencil or your finger. Your signature can be drawn once and reused.
+
+ Q: Why not just use the Apple Notes scanner?
+Notes scanning is free and fine for quick captures. Scanlio adds a document library with full-text search, a PDF editor with white-out and reusable signatures, merge and split, ID scanning, and PDF to Word or text conversion.
+
+ Sources: Scanlio on the App Store (v1.0.17, 26 Aug 2026), Scanlio support page, Scanlio privacy policy, Apple: Scan text and documents in Notes. Prices are those listed on the US App Store on 6 September 2026 and can change.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/support.html
+======================================================================
+
+Support
+
+ We're here to help. Most questions are answered below — if you still need a hand, email us and we'll reply within 1–2 business days.
+
+ Email support@scanlio.app
+
+## Getting started
+
+ - Scan a document: tap the camera button, line up the page — edges are detected automatically — then save. Add more pages to build a multi-page PDF.
+
+ - Import files: use the “+” menu to import a PDF or images (PNG, JPG, HEIC) from Files or Photos.
+
+ - Scan an ID or passport: choose “Scan ID / Passport”, capture the front and back, and it’s saved together. Long-press a document to lock it with Face ID or a PIN.
+
+## Editing & converting
+
+ - Edit & sign: open a document → Markup to annotate, add text or sign.
+
+ - Reorder / rotate / delete / merge / split pages: open a document → Pages, or select multiple documents in the library to merge.
+
+ - Convert: open Convert to export a PDF to Word (.rtf), images or text.
+
+ - Share: export as PDF, JPG or Word via Mail, AirDrop, Cloud or any app.
+
+## Scanlio Pro & subscriptions
+
+ - Scanlio is free to download and scan. Pro unlocks OCR, PDF editing, e-signature, conversion and unlimited exports, and removes ads.
+
+ - Plans: Weekly, Monthly, or Yearly (with a 3-day free trial). Prices are shown in your local currency at checkout.
+
+ - Restore purchases: Settings → Restore Purchases.
+
+ - Manage / cancel: App Store → your account → Subscriptions → Scanlio. You keep Pro until the end of the current period.
+
+## Privacy
+
+ Your documents are processed on your device and are never uploaded to our servers. See our Privacy Policy.
+
+## Still need help?
+
+ Email support@scanlio.app with your device model and iOS version and we’ll get you sorted.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/privacy.html
+======================================================================
+
+Privacy Policy
+
+ Last updated: June 2026
+
+ Scanlio ("we", "us") is built privacy-first. This policy explains what we do — and mostly don't — with your data.
+
+## Your documents stay on your device
+
+ All scanning, text recognition (OCR), editing, conversion and storage happen locally on your device. We do not upload, collect, view or store the documents, images or text you create in Scanlio. They never reach our servers.
+
+## Data we do not collect
+
+ - We do not require an account, email or sign-in.
+
+ - We do not collect or sell your documents or personal files.
+
+## Advertising (free version)
+
+ The free version shows ads via Google AdMob. Scanlio does not track you across other apps or websites: it does not use the advertising identifier (IDFA) and does not present an App Tracking Transparency prompt, so AdMob serves non-personalized ads only. To deliver those ads, AdMob may process a non-identifying device signal, approximate (coarse) location and usage/diagnostic data, in accordance with Google's policies — this data is not linked to your identity and is not used to track you. The macOS version contains no ads. Scanlio Pro removes all ads.
+
+ Google's privacy policy: https://policies.google.com/privacy
+
+## Purchases
+
+ Subscriptions and purchases are handled by Apple. We never see your payment details. Apple processes transactions per its own privacy policy.
+
+## Your rights (GDPR / CCPA)
+
+ Because Scanlio does not collect, store or share your documents or personal data on our servers, we hold no personal data about you to access, correct, export or delete. Your files live only on your device and in your own iCloud/backups, which you control. For data processed by Google (ads) or Apple (purchases), please exercise your rights directly with those providers under their policies. We do not sell or share personal information, and we do not use your data for cross-app tracking.
+
+## Data retention
+
+ We do not retain your documents or personal data — there is nothing stored on our side. Documents remain on your device until you delete them.
+
+## Permissions
+
+ - Camera — to scan documents (only when you scan).
+
+ - Photos — only the images you choose to import or export.
+
+ - Notifications — optional reminders you can turn off anytime.
+
+## Children
+
+ Scanlio is not directed to children under 13 and does not knowingly collect data from them.
+
+## Changes
+
+ We may update this policy; material changes will be posted here.
+
+## Contact
+
+ Questions? Email support@scanlio.app.
+
+======================================================================
+URL: https://lastoneparis.github.io/scanlio/terms.html
+======================================================================
+
+Terms of Use
+
+ Last updated: June 2026
+
+ These Terms of Use ("Terms") are a legal agreement between you and the developer of
+ Scanlio ("we", "us", "our"). By downloading, installing or using Scanlio (the "App"),
+ you agree to these Terms and to Apple's standard
+ Licensed Application End User License Agreement (EULA).
+ If you do not agree, do not use the App.
+
+## 1. License
+
+ We grant you a personal, limited, non-exclusive, non-transferable, revocable license to
+ use Scanlio on Apple devices you own or control, for your personal or internal business use,
+ subject to these Terms, the EULA and the App Store Terms of Service. We retain all rights,
+ title and interest in the App, including all intellectual property.
+
+## 2. Subscriptions, billing & renewal
+
+ - Scanlio is free to download. Scanlio Pro is an auto-renewable subscription (Weekly, Monthly or Yearly) that unlocks premium features.
+
+ - Payment is charged to your Apple ID at confirmation of purchase.
+
+ - Subscriptions renew automatically at the then-current price unless cancelled at least 24 hours before the end of the current period. Manage or cancel anytime in App Store → your account → Subscriptions.
+
+ - Any unused portion of a free trial is forfeited when you purchase a subscription.
+
+ - Prices may change; we will give notice as required and changes apply to future periods.
+
+ - Refunds are handled solely by Apple under the App Store Terms of Service; we cannot issue refunds directly.
+
+ - Promotional, free or offer-code access may be provided at our discretion and may be modified or withdrawn for future periods.
+
+## 3. Your content & acceptable use
+
+ You retain all rights to the documents, images and text you process with the App ("Your Content").
+ We claim no ownership over Your Content. You represent and warrant that you own or have the necessary
+ rights and permissions to scan, store, edit and share Your Content, and that doing so does not violate
+ any law or third-party right.
+
+ You agree not to use Scanlio to: (a) create, alter, forge or falsify identity documents,
+ passports, currency, official records or any document with intent to deceive or defraud; (b) infringe
+ intellectual-property, privacy or other rights; (c) process content you are not authorized to use; or
+ (d) violate any applicable law or regulation. You are solely responsible for Your Content and how you use it.
+
+## 4. Not professional advice
+
+ Scanlio is a document-scanning, editing and conversion tool. It does not provide legal,
+ tax, financial, medical or other professional advice, and its output is not a substitute for professional
+ judgment. Always have important documents reviewed by a qualified professional.
+
+## 5. Accuracy disclaimer
+
+ Text recognition (OCR), edge detection, conversion (e.g. PDF→Word) and other processing are
+ best-effort and may contain errors or omissions. Always review and verify important documents
+ before relying on, submitting or sharing them. Keep your own backups of important files; we are
+ not responsible for lost or corrupted data.
+
+## 6. Disclaimer of warranties
+
+ THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS,
+ IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+ PARTICULAR PURPOSE, ACCURACY AND NON-INFRINGEMENT. We do not warrant that the App will be uninterrupted,
+ error-free or secure.
+
+## 7. Limitation of liability
+
+ TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL WE BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+ SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, REVENUE OR
+ GOODWILL, ARISING FROM OR RELATED TO YOUR USE OF (OR INABILITY TO USE) THE APP, EVEN IF ADVISED OF THE
+ POSSIBILITY. OUR TOTAL AGGREGATE LIABILITY FOR ALL CLAIMS WILL NOT EXCEED THE GREATER OF (a) THE AMOUNT
+ YOU PAID US FOR THE APP IN THE 12 MONTHS BEFORE THE CLAIM, OR (b) USD 50. Some jurisdictions do not allow
+ certain limitations, so some of the above may not apply to you; in that case our liability is limited to
+ the smallest amount permitted by law.
+
+## 8. Indemnification
+
+ You agree to indemnify and hold us harmless from any claims, damages, liabilities and expenses
+ (including reasonable legal fees) arising from Your Content, your use of the App, or your breach of
+ these Terms or any law or third-party right.
+
+## 9. Privacy
+
+ Your documents are processed on your device. Our handling of data is described in our
+ Privacy Policy, which forms part of these Terms. The free version shows ads via
+ Google AdMob; the App does not track you across other apps or websites.
+
+## 10. Third-party services
+
+ The App may use third-party services (e.g. Google AdMob in the free version, and Apple's App Store
+ and StoreKit for purchases). Your use of those services is also subject to their respective terms.
+
+## 11. Termination
+
+ These Terms apply until terminated. We may suspend or terminate your access if you breach them.
+ You may stop using the App at any time. Sections 3–8 and 12 survive termination.
+
+## 12. Governing law
+
+ These Terms are governed by the laws of Switzerland, without regard to conflict-of-laws rules, and the
+ courts of Geneva, Switzerland have exclusive jurisdiction, unless a mandatory consumer-protection law in
+ your country of residence provides otherwise. Nothing here limits non-waivable statutory consumer rights.
+
+## 13. Children
+
+ Scanlio is rated 4+ but is intended for general audiences and is not directed to children under 13.
+ If you are a minor, use the App only with the involvement of a parent or guardian.
+
+## 14. Changes
+
+ We may update these Terms; we will update the date above and, where appropriate, provide notice.
+ Continued use after changes take effect constitutes acceptance.
+
+## 15. Severability & entire agreement
+
+ If any provision is held unenforceable, the rest remains in effect. These Terms, the EULA and the
+ Privacy Policy are the entire agreement between you and us regarding the App.
+
+## 16. Contact
+
+ Questions? Email support@scanlio.app.
