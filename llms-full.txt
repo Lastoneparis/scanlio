@@ -209,7 +209,7 @@ Is there a PDF scanner app without a subscription?
 
  Scanlio is free to download. There are three layers, and it helps to be precise about each.
 
- - Free. Every tool in the app shares the same free allowance, and saving your scans is never blocked. Scanning with edge detection, importing PDFs and images, organizing the library and sharing all work without paying. On iPhone and iPad the free version shows non-personalized ads through Google AdMob; Scanlio does not use the advertising identifier and does not track you across apps. The Mac version shows no ads.
+ - Free. Every tool in the app shares the same free allowance, and saving your scans is never blocked. Scanning with edge detection, importing PDFs and images, organizing the library and sharing all work without paying. On iPhone and iPad the free version shows ads through Google AdMob, after Google’s consent form in the EEA and the UK and Apple’s App Tracking Transparency prompt; ads are personalized only if you allow tracking. The Mac version shows no ads.
 
  - Scanlio Pro as a subscription. Pro unlocks unlimited OCR, the full PDF editor, e-signatures, format conversions and unlimited exports, and removes ads. It is offered weekly, monthly and yearly, with a free trial on the yearly plan whose length is shown on the purchase screen. Prices are listed on the App Store at the time of writing and appear in your local currency at checkout.
 
@@ -342,7 +342,7 @@ How Scanlio works: a walkthrough of scanning, OCR, editing and signing
 
 ## How privacy is built in
 
- Scanlio works entirely offline. Scanning, OCR, editing, conversion and storage all run on your iPhone, iPad or Mac, and the developer’s privacy policy states that documents, images and text you create are never uploaded, collected or viewed. The app does not use the advertising identifier (IDFA) and shows no App Tracking Transparency prompt. The free version on iPhone and iPad displays non-personalized ads through Google AdMob; the Mac version contains no ads at all, and Scanlio Pro removes ads everywhere. Your files exist only on your device and in whatever backup you already run, such as your own iCloud backup.
+ Scanlio works entirely offline. Scanning, OCR, editing, conversion and storage all run on your iPhone, iPad or Mac, and the developer’s privacy policy states that documents, images and text you create are never uploaded, collected or viewed. The free version on iPhone and iPad displays ads through Google AdMob; the Mac version contains no ads at all, and Scanlio Pro removes ads everywhere. In the EEA and the UK, Google’s consent form is shown before any ad is requested, and Scanlio then asks for App Tracking Transparency permission: allow it and AdMob may use the advertising identifier (IDFA) for personalized ads, decline it and ads stay non-personalized. Your files exist only on your device and in whatever backup you already run, such as your own iCloud backup.
 
 ## Free allowance versus Scanlio Pro
 
@@ -1125,7 +1125,7 @@ Privacy Policy
 
 ## Advertising (free version)
 
- The free version shows ads via Google AdMob. Scanlio does not track you across other apps or websites: it does not use the advertising identifier (IDFA) and does not present an App Tracking Transparency prompt, so AdMob serves non-personalized ads only. To deliver those ads, AdMob may process a non-identifying device signal, approximate (coarse) location and usage/diagnostic data, in accordance with Google's policies — this data is not linked to your identity and is not used to track you. The macOS version contains no ads. Scanlio Pro removes all ads.
+ The free version on iPhone and iPad shows ads via Google AdMob. The macOS and Apple Vision Pro versions contain no ads at all. Scanlio Pro removes all ads. Consent (EEA and UK). Before any ad is requested, Scanlio shows Google's consent form (User Messaging Platform) wherever consent is required — in the European Economic Area and the United Kingdom. No ad is loaded until you have answered it. You can change your answer at any time in Settings › Manage Privacy Choices. App Tracking Transparency and the advertising identifier (IDFA). After the consent step, Scanlio presents Apple's App Tracking Transparency prompt. If you allow tracking, AdMob may use your device's advertising identifier (IDFA) to show you personalized ads, which can involve tracking across other apps and websites. If you decline — or simply dismiss the prompt — the identifier is not accessed and AdMob serves non-personalized ads only. You can change this at any time in iOS Settings › Privacy & Security › Tracking. To deliver ads, AdMob may also process a device signal, approximate (coarse) location and usage/diagnostic data, in accordance with Google's policies.
 
  Google's privacy policy: https://policies.google.com/privacy
 

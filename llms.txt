@@ -21,7 +21,7 @@ Scanlio is an alternative to Adobe Scan, CamScanner, Genius Scan, Scanner Pro, M
 - https://lastoneparis.github.io/scanlio/scanlio-for-receipts.html: Receipt and expense workflow for freelancers with Scanlio: scan, OCR, search by vendor, merge a month into one PDF
 - https://lastoneparis.github.io/scanlio/scanlio-for-students.html: Student workflow with Scanlio: handouts and whiteboards to searchable PDFs, annotate on iPad, convert to Word
 - https://lastoneparis.github.io/scanlio/support.html: Support: getting started, editing and converting, Scanlio Pro and subscriptions, privacy
-- https://lastoneparis.github.io/scanlio/privacy.html: Privacy policy: on-device processing, no document upload, non-personalized AdMob ads on free iOS, no tracking
+- https://lastoneparis.github.io/scanlio/privacy.html: Privacy policy: on-device processing, no document upload, AdMob ads on free iOS with EEA/UK consent (UMP) and App Tracking Transparency
 - https://lastoneparis.github.io/scanlio/terms.html: Terms of use
 
 ## Optional
